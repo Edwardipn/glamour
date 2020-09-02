@@ -61,66 +61,10 @@
     <div class="swiper-button-next"></div>
     <div class="swiper-button-prev"></div>
   </div>
-
-  <div class="text-center topmargin-sm">
+	<br>
+  <div class="text-center">
     <p>– Adam Sendler</p>
   </div>
-<!--
-  <section id="portfolio">
-    <div class="container-fluid">
-      <div class="content-center">
-          <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
-          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem, aliquam? Iure quidem, explicabo obcaecati omnis sequi ullam libero numquam dolor, repellendus rem facilis ducimus voluptatum quia, temporibus quam accusantium fugit.</p>
-      </div>
-      <div class="row">
-        <div class="col-md-6">
-          <div class="portfolio-container">
-            <img src="{{asset('img/portfolio/camp-1.jpg')}}" class="img-thumbnail" alt="portfolio 1">
-            <div class="portfolio-details">
-              <div class="content-center">
-                <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem, aliquam? Iure quidem, explicabo obcaecati omnis sequi ullam libero numquam dolor, repellendus rem facilis ducimus voluptatum quia, temporibus quam accusantium fugit.</p>
-              </div>  
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="portfolio-container">
-            <img src="{{asset('img/portfolio/camp-2.jpg')}}" class="img-fluid" alt="portfolio 2">
-            <div class="portfolio-details">
-              <div class="content-center">
-                <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem, aliquam? Iure quidem, explicabo obcaecati omnis sequi ullam libero numquam dolor, repellendus rem facilis ducimus voluptatum quia, temporibus quam accusantium fugit.</p>
-              </div>  
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="portfolio-container">
-            <img src="{{asset('img/portfolio/camp-3.jpg')}}" class="img-fluid" alt="portfolio 3">
-            <div class="portfolio-details">
-              <div class="content-center">
-                <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem, aliquam? Iure quidem, explicabo obcaecati omnis sequi ullam libero numquam dolor, repellendus rem facilis ducimus voluptatum quia, temporibus quam accusantium fugit.</p>
-              </div>  
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="portfolio-container">
-            <img src="{{asset('img/portfolio/camp-4.jpg')}}" class="img-fluid" alt="portfolio 4">
-            <div class="portfolio-details">
-              <div class="content-center">
-                <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem, aliquam? Iure quidem, explicabo obcaecati omnis sequi ullam libero numquam dolor, repellendus rem facilis ducimus voluptatum quia, temporibus quam accusantium fugit.</p>
-              </div>  
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
--->
 
   <!-- Initialize Swiper -->
   <script>
@@ -151,32 +95,6 @@
     <li><a class="social-instagram" href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
   </ul>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -21,3 +21,5 @@
 
   <!-- Styles -->
   <link rel="stylesheet" href="{{asset('css/styles.css')}}">
+  <!-- Scripts -->
+  <script src="{{asset('js/script.js')}}"></script>

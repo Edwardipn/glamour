@@ -1,8 +1,8 @@
-<header>
+<header class="main-header">
   <!--Navbar Bootstrap-->
   <nav class="navbar navbar-expand-lg navbar-light fixed-top">
     <div class="container">
-      <a class="navbar-brand" href="#"><img src="{{asset('img/logoPNG.png')}}" class="logo-nav" alt="logo"></a>
+      <a class="navbar-brand" href="#"><img src="{{asset('img/logo-blancas.png')}}" class="logo-nav" alt="logo"></a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
