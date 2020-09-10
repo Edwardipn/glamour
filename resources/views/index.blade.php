@@ -3,7 +3,7 @@
 
 <head>
   @include('util.head')
-  <title>Home</title>
+  <title>Inicio</title>
 </head>
 
 <body>
@@ -12,49 +12,17 @@
   <!-- Swiper -->
   <div class="swiper-container">
     <div class="swiper-wrapper">
-      <div class="swiper-slide" style="background-image: url({{asset('img/mission-2.jpg')}});" >
+      <div class="swiper-slide" style="background-image: url({{asset('img/portfolio/quinceanera-1.jpg')}});" >
         <div class="carousel-caption d-none d-md-block">
-          <h5 class="animated bounceInRight" style="animation-delay: 1s;">Web Development</h5>
-          <p class="animated bounceInLeft" style="animation-delay: 2s;">Atque saepe molestias unde et fugiat corrupti cupiditate? Temporibus unde et itaque, molestiae alias fuga aperiam iure delectus optio ad nesciunt nisi.</p>
-          <p class="animated bounceInRight" style="animation-delay: 3s;"><a class="view-more white-btn" href="#">Find more</a></p>
+		<h5 class="animated zoomIn" style="animation-delay: 1s;">La mejor ilusión tus XV años</h5>
         </div>
       </div>
-      <div class="swiper-slide" style="background-image: url({{asset('img/mountain-3.jpg')}});">
+      <div class="swiper-slide" style="background-image: url({{asset('img/portfolio/quinceanera-2.jpg')}});">
         <div class="carousel-caption d-none d-md-block">
-          <h5 class="animated slideInDown" style="animation-delay: 1s;">Web Design</h5>
-          <p class="animated fadeInUp" style="animation-delay: 2s;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque saepe molestias unde et fugiat </p>
-          <p class="animated zoomIn" style="animation-delay: 3s;"><a class="view-more white-btn" href="#">Find more</a></p>
-        </div>
-      </div>
-      <div class="swiper-slide" style="background-image: url({{asset('img/hiking-v1.jpg')}});">
-        <div class="carousel-caption d-none d-md-block">
-          <h5 class="animated zoomIn" style="animation-delay: 1s;">Digital Marketing</h5>
-          <p class="animated fadeInLeft" style="animation-delay: 2s;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque saepe molestias unde et fugiat corrupti cupiditate?</p>
-          <p class="animated zoomIn" style="animation-delay: 3s;"><a class="view-more white-btn" href="#">Find more</a></p>
-        </div>
-      </div>
-      <div class="swiper-slide" style="background-image: url({{asset('img/walking-v1.jpg')}});">
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Walking for the adventure</h5>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. </p>
-          <p><a class="view-more white-btn" href="#">Find more</a></p>
+		<h6 class="animated zoomIn" style="animation-delay: 1s;">La mejor ilusión tus XV años</h5>
         </div>
       </div>
     </div>
-    <div class="swiper-slide" style="background-image: url({{asset('img/gardening.jpg')}});">
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Unique Moments</h5>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque saepe molestias unde et fugiat corrupti cupiditate? Temporibus unde et itaque,</p>
-          <p><a class="view-more white-btn" href="#">Find more</a></p>
-        </div>
-      </div>
-      <div class="swiper-slide" style="background-image: url({{asset('img/services-3.jpg')}});">
-        <div class="carousel-caption d-none d-md-block">
-          <h5>Unique Moments</h5>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque saepe molestias unde et fugiat corrupti cupiditate? Temporibus unde et itaque,</p>
-          <p><a class="view-more white-btn" href="#">Find more</a></p>
-        </div>
-      </div>
     <!-- Add Pagination -->
     <div class="swiper-pagination"></div>
     <!-- Add Arrows -->
@@ -62,9 +30,10 @@
     <div class="swiper-button-prev"></div>
   </div>
 	<br>
-  <div class="text-center">
-    <p>– Adam Sendler</p>
-  </div>
+
+	<div class="text-center">
+		<p><img style="width: 400px;" src="{{asset('img/logos/slogan-completo.png')}}"></p>
+	</div>
 
   <!-- Initialize Swiper -->
   <script>
@@ -72,7 +41,7 @@
       spaceBetween: 30,
       centeredSlides: true,
       autoplay: {
-        delay: 8000,
+        delay: 5500,
         disableOnInteraction: false,
       },
       pagination: {
@@ -88,6 +57,7 @@
 <!--Swiper Autoplay-->
 
 <!--Menu Social-->
+<!--
 <div class="menu-contact">
   <ul class="social-media">
     <li><a class="social-facebook" href="#" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
@@ -95,20 +65,7 @@
     <li><a class="social-instagram" href="#" target="_blank"><i class="fab fa-instagram"></i></a></li>
   </ul>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-->
 
 		<!-- PAGE CONTENT -->
 		<div class="page-holder custom-page-template page-full fullscreen-page home-page-content clearfix">
@@ -117,8 +74,8 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-8 offset-lg-2">
-							<h2 class="section-title margin-b32">We're Gleam a small and enthusiastic photography studio based in New York</h2>
-							<p>We love photography and travel for meeting new beautiful people all over the world. Propriae voluptaria dissentias nam ei, posse diceret inciderint cum ut, gubergren sadipscing ei vim. Ancillae torquatos in nec.</p>
+							<h2 class="section-title margin-b32"></h2>
+							<p>En la vida hay momentos que por sí mismos son especiales, pero siempre es mejor si puedes compartirlo con las personas a las que quieres. Por eso agradecemos que hoy estés aquí. ¡Bienvenid@!</p>
 						</div>
 					</div>
 					<!-- /row -->
@@ -133,116 +90,40 @@
 						<div class="col-lg-12">
 							<div class="port-masonry port-masonry-4cols">
 								<div class="row layout-masonry">
-									<div class="col-sm-6 col-lg-3 blog-item-masonry port-item-masonry weddings">
-										<div class="port-item-htext">
-											<a href="{{asset('galleries')}}">
-												<div class="port-img"><img src="{{asset('img/portfolio/winter-sports-04.jpg')}}" class="img-fluid" alt="Ellen &amp; James"></div>
-												<div class="album-arrow"></div>
-											</a>
-										</div>
-										<div class="port-caption-masonry">
-											<h3><a href="{{asset('galleries')}}">Ellen &amp; James</a></h3>
-											<ul class="port-categ-masonry">
-												<li><a href="#">Weddings</a></li>
-											</ul>
-										</div>
-									</div>
-									<div class="col-sm-6 col-lg-3 blog-item-masonry port-item-masonry weddings">
-										<div class="port-item-htext">
-											<a href="{{asset('galleries')}}">
-												<div class="port-img"><img src="{{asset('img/portfolio/water-sports-01.jpg')}}" class="img-fluid" alt="Sara &amp; David"></div>
-												<div class="album-arrow"></div>
-											</a>
-										</div>
-										<div class="port-caption-masonry">
-											<h3><a href="{{asset('galleries')}}">Sara &amp; David</a></h3>
-											<ul class="port-categ-masonry">
-												<li><a href="#">Weddings</a></li>
-											</ul>
-										</div>
-									</div>
-									<div class="col-sm-6 col-lg-3 blog-item-masonry port-item-masonry weddings">
-										<div class="port-item-htext">
-											<a href="{{asset('galleries')}}">
-												<div class="port-img"><img src="{{asset('img/portfolio/water-sports-02.jpg')}}" class="img-fluid" alt="Carla &amp; Mike"></div>
-												<div class="album-arrow"></div>
-											</a>
-										</div>
-										<div class="port-caption-masonry">
-											<h3><a href="{{asset('galleries')}}">Carla &amp; Mike</a></h3>
-											<ul class="port-categ-masonry">
-												<li><a href="#">Weddings</a></li>
-											</ul>
-										</div>
-									</div>
+
 									<div class="col-sm-6 col-lg-3 blog-item-masonry port-item-masonry people">
 										<div class="port-item-htext">
 											<a href="{{asset('galleries')}}">
-												<div class="port-img"><img src="{{asset('img/portfolio/water-sports-03.jpg')}}" class="img-fluid" alt="Black &amp; White"></div>
+												<div class="port-img">
+													<img src="{{asset('img/daimon/daimon_400x600_1.jpg')}}" class="img-fluid" alt="Daimon">
+												</div>
 												<div class="album-arrow"></div>
 											</a>
 										</div>
 										<div class="port-caption-masonry">
-											<h3><a href="{{asset('galleries')}}">Black &amp; White</a></h3>
-											<ul class="port-categ-masonry">
-												<li><a href="#">People</a></li>
-											</ul>
+											<h3><a href="{{asset('galleries')}}">Daimon</a></h3>
 										</div>
 									</div>
 									<div class="col-sm-6 col-lg-3 blog-item-masonry port-item-masonry people">
 										<div class="port-item-htext">
 										<a href="{{asset('galleries')}}">
-												<div class="port-img"><img src="{{asset('img/portfolio/water-sports-04.jpg')}}" class="img-fluid" alt="Bella Blue"></div>
+												<div class="port-img"><img src="{{asset('img/vicky/vicky_400x600_1.jpg')}}" class="img-fluid" alt="Vicky"></div>
 												<div class="album-arrow"></div>
 											</a>
 										</div>
 										<div class="port-caption-masonry">
-											<h3><a href="{{asset('galleries')}}">Bella Blue</a></h3>
-											<ul class="port-categ-masonry">
-												<li><a href="#">People</a></li>
-											</ul>
+											<h3><a href="{{asset('galleries')}}">Vicky</a></h3>
 										</div>
 									</div>
 									<div class="col-sm-6 col-lg-3 blog-item-masonry port-item-masonry nature">
 										<div class="port-item-htext">
 										<a href="{{asset('galleries')}}">
-												<div class="port-img"><img src="{{asset('img/portfolio/winter-sports-01.jpg')}}" class="img-fluid" alt="White Buildings"></div>
+												<div class="port-img"><img src="{{asset('img/jane/jane_400x600_1.jpg')}}" class="img-fluid" alt="Jane"></div>
 												<div class="album-arrow"></div>
 											</a>
 										</div>
 										<div class="port-caption-masonry">
-											<h3><a href="{{asset('galleries')}}">White Buildings</a></h3>
-											<ul class="port-categ-masonry">
-												<li><a href="#">Nature</a></li>
-											</ul>
-										</div>
-									</div>
-									<div class="col-sm-6 col-lg-3 blog-item-masonry port-item-masonry nature">
-										<div class="port-item-htext">
-										<a href="{{asset('galleries')}}">
-												<div class="port-img"><img src="{{asset('img/portfolio/winter-sports-02.jpg')}}" class="img-fluid wp-post-image" alt="Summer Days"></div>
-												<div class="album-arrow"></div>
-											</a>
-										</div>
-										<div class="port-caption-masonry">
-											<h3><a href="{{asset('galleries')}}">Summer Days</a></h3>
-											<ul class="port-categ-masonry">
-												<li><a href="#">Nature</a></li>
-											</ul>
-										</div>
-									</div>
-									<div class="col-sm-6 col-lg-3 blog-item-masonry port-item-masonry people">
-										<div class="port-item-htext">
-										<a href="{{asset('galleries')}}">
-												<div class="port-img"><img src="{{asset('img/portfolio/winter-sports-03.jpg')}}" class="img-fluid wp-post-image" alt="Crazy Mood"></div>
-												<div class="album-arrow"></div>
-											</a>
-										</div>
-										<div class="port-caption-masonry">
-											<h3><a href="{{asset('galleries')}}">Crazy Mood</a></h3>
-											<ul class="port-categ-masonry">
-												<li><a href="#">People</a></li>
-											</ul>
+											<h3><a href="{{asset('galleries')}}">Jane</a></h3>
 										</div>
 									</div>
 								</div>
@@ -257,7 +138,7 @@
 			</section>
 			<!-- /SECTION 2-->
 			<!-- SECTION 3-->
-			<section class="parallax section-holder" style="background-image:url({{asset('img/sunflowers.jpg')}});">
+			<section class="parallax section-holder" style="background-image:url({{asset('img/portfolio/xv-girl-5.jpg')}});">
 				<div class="container parallax-content alignc">
 					<div class="row">
 						<div class="col-lg-8 offset-lg-2">
@@ -276,7 +157,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-8 offset-lg-2">
-							<h2 class="section-title margin-b32">Read Our Blog</h2>
+							<h2 class="section-title margin-b32">Revisa nuestra galería</h2>
 							<p>We love photography and travel for meeting new beautiful people all over the world. Propriae voluptaria dissentias nam ei, posse diceret inciderint cum ut, gubergren sadipscing ei vim. Ancillae torquatos in nec.</p>
 						</div>
 					</div>
@@ -285,65 +166,16 @@
 				<!-- /container -->
 			</section>
 			<!-- /SECTION 4-->
-			<!-- SECTION 5-->
-			<section class="section-holder section-home15 alignc">
-				<div class="container">
-					<div class="short-blog-3col-grid">
-						<div class="row">
-							<div class="col-lg-4">
-								<article class="blog-item blog-item-3col-grid">
-									<div class="post-image"><a href="blog-single-post.html"><img src="{{asset('img/portfolio/camp-1.jpg')}}" class="img-fluid" alt="Lovely Wedding"></a></div>
-									<div class="post-holder">
-										<h2 class="article-title"><a href="blog-single-post.html">Lovely Wedding</a></h2>
-										<ul class="post-meta">
-											<li class="meta-date">August 20, 2019</li>
-											<li class="meta-categ"> <a href="#">News</a> <a href="#">Portraits</a></li>
-										</ul>
-										<div class="article-excerpt">Arnare varius mauris eu commodo. Aenean nibh risus, rhoncus eget consectetur ac. Consectetur adipiscing elit. Vivamus auctor condimentum sem et ...</div>
-									</div>
-								</article>
-							</div>
-							<div class="col-lg-4">
-								<article class="blog-item blog-item-3col-grid">
-									<div class="post-image"><a href="blog-single-post.html"><img src="{{asset('img/portfolio/camp-2.jpg')}}" class="img-fluid" alt="New Dress Collection"></a></div>
-									<div class="post-holder">
-										<h2 class="article-title"><a href="blog-single-post.html">New Dress Collection</a></h2>
-										<ul class="post-meta">
-											<li class="meta-date">August 18, 2019</li>
-											<li class="meta-categ"> <a href="#">Fashion</a> <a href="#">News</a></li>
-										</ul>
-										<div class="article-excerpt">Arnare varius mauris eu commodo. Aenean nibh risus, rhoncus eget consectetur ac. Consectetur adipiscing elit. Vivamus auctor condimentum sem et ...</div>
-									</div>
-								</article>
-							</div>
-							<div class="col-lg-4">
-								<article class="blog-item blog-item-3col-grid">
-									<div class="post-image"><a href="blog-single-post.html"><img src="{{asset('img/portfolio/camp-3.jpg')}}" class="img-fluid" alt="Family Moments"></a></div>
-									<div class="post-holder">
-										<h2 class="article-title"><a href="blog-single-post.html">Family Moments</a></h2>
-										<ul class="post-meta">
-											<li class="meta-date">August 16, 2019</li>
-											<li class="meta-categ"> <a href="#">News</a></li>
-										</ul>
-										<div class="article-excerpt">Arnare varius mauris eu commodo. Aenean nibh risus, rhoncus eget consectetur ac. Consectetur adipiscing elit. Vivamus auctor condimentum sem et ...</div>
-									</div>
-								</article>
-							</div>
-						</div>
-					</div>
-				</div>
-				<!-- /container -->
-			</section>
-			<!-- /SECTION 5-->
+
 			<!-- SECTION 6-->
 			<section class="home-section6">
 				<div class="container">
 					<div class="row align-items-center">
 						<div class="col-lg-8">
-							<h3 class="section-title margin-bm32">We love meeting new people. If you want to work with us send a message.</h3>
+							<h3 class="section-title margin-bm32">Somos Fille á Femme con sede en Ciudad de México.</h3>
 						</div>
 						<div class="col-lg-4 alignr">
-							<a href="#" class="read-more">Contact Us</a>
+							<a href="{{asset('contact')}}" class="read-more">Contactanos</a>
 						</div>
 					</div>
 				</div>

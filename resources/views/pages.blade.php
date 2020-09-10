@@ -3,19 +3,18 @@
 
 <head>
   @include('util.head')
-  <title>Pages</title>
+  <title>Enlaces</title>
 </head>
 
 <body>
 @include('util.header')
-<div class="swiper-slide" style="background-image: url({{asset('img/mountain-3.jpg')}});">
+<div class="swiper-slide" style="background-image: url({{asset('img/xv-quinseaneras-6.jpg')}});">
         <div class="carousel-caption d-none d-md-block">
-          <h5 class="animated slideInDown" style="animation-delay: 1s;">Web Design</h5>
-          <p class="animated fadeInUp" style="animation-delay: 2s;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque saepe molestias unde et fugiat </p>
-          <p class="animated zoomIn" style="animation-delay: 3s;"><a class="view-more white-btn" href="#">Find more</a></p>
+          <h5>Tener quince</h5>
+          <p>Tienes en la palma de tu mano la juventud, la belleza, la vida. Disfruta y sé feliz. ¡Felices quince años!</p>
+          <!--<p><a class="view-more white-btn" href="#">Más info</a></p>-->
         </div>
       </div>
-<h1>pages</h1>
 @include('util.footer')
 </body>
 

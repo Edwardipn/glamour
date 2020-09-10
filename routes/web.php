@@ -32,9 +32,27 @@ Route::get('/galleries', function () {
     return view('galleries');
 });
 
-Route::get('/blog', function () {
-    return view('blog');
-});
+    Route::get('/g-ame', function () {
+        return view('util/galleries/amely');
+    });
+    Route::get('/g-dai', function () {
+        return view('util/galleries/daimon');
+    });
+    Route::get('/g-jan', function () {
+        return view('util/galleries/jane');
+    });
+    Route::get('/g-lil', function () {
+        return view('util/galleries/lilan');
+    });
+    Route::get('/g-nic', function () {
+        return view('util/galleries/nicol');
+    });
+    Route::get('/g-tab', function () {
+        return view('util/galleries/tabata');
+    });
+    Route::get('/g-vic', function () {
+        return view('util/galleries/vicky');
+    });
 
 Route::get('/contact', function () {
     return view('contact');
