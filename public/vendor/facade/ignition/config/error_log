@@ -1,0 +1,4 @@
+[30-Aug-2020 16:10:48 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/ignition/config/ignition.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/ignition/config/ignition.php on line 17

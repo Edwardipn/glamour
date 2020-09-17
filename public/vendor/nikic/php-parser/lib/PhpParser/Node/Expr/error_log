@@ -1,0 +1,108 @@
+[30-Aug-2020 16:11:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PreDec.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/PreDec.php on line 7
+[30-Aug-2020 16:11:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayDimFetch.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayDimFetch.php on line 7
+[30-Aug-2020 16:11:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/UnaryMinus.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/UnaryMinus.php on line 7
+[30-Aug-2020 16:11:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayItem.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrayItem.php on line 7
+[30-Aug-2020 16:11:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Instanceof_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Instanceof_.php on line 8
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrowFunction.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ArrowFunction.php on line 9
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast.php on line 7
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BooleanNot.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BooleanNot.php on line 7
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/New_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/New_.php on line 8
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Eval_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Eval_.php on line 7
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/YieldFrom.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/YieldFrom.php on line 7
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Error.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Error.php on line 13
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/NullsafePropertyFetch.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/NullsafePropertyFetch.php on line 8
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Print_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Print_.php on line 7
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Exit_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Exit_.php on line 7
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/MethodCall.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/MethodCall.php on line 9
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/NullsafeMethodCall.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/NullsafeMethodCall.php on line 9
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BitwiseNot.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/BitwiseNot.php on line 7
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ErrorSuppress.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ErrorSuppress.php on line 7
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Ternary.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Ternary.php on line 7
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignOp.php on line 7
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Array_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Array_.php on line 7
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Match_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Match_.php on line 8
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Throw_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Throw_.php on line 7
+[30-Aug-2020 16:11:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignRef.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/AssignRef.php on line 7
+[30-Aug-2020 16:11:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ConstFetch.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ConstFetch.php on line 8
+[30-Aug-2020 16:11:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ShellExec.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/ShellExec.php on line 7

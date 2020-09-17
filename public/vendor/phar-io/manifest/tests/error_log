@@ -1,0 +1,8 @@
+[30-Aug-2020 16:11:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/ManifestLoaderTest.php:45
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/ManifestLoaderTest.php on line 45
+[30-Aug-2020 16:11:03 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/ManifestDocumentMapperTest.php:45
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/ManifestDocumentMapperTest.php on line 45

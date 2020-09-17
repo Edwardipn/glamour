@@ -1,0 +1,2 @@
+[30-Aug-2020 16:11:14 America/Mexico_City] PHP Fatal error:  Interface 'Ramsey\Uuid\Provider\TimeProviderInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php on line 27
+[30-Aug-2020 16:11:15 America/Mexico_City] PHP Fatal error:  Interface 'Ramsey\Uuid\Provider\TimeProviderInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php on line 25

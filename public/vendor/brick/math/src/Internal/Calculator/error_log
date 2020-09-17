@@ -1,0 +1,4 @@
+[30-Aug-2020 16:11:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Brick\Math\Internal\Calculator' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/brick/math/src/Internal/Calculator/GmpCalculator.php on line 16

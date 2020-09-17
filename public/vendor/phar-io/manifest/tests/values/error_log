@@ -1,0 +1,52 @@
+[30-Aug-2020 16:11:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/ApplicationNameTest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/ApplicationNameTest.php on line 15
+[30-Aug-2020 16:11:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/EmailTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/EmailTest.php on line 18
+[30-Aug-2020 16:11:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/ManifestTest.php:36
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/ManifestTest.php on line 36
+[30-Aug-2020 16:11:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/PhpExtensionRequirementTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/PhpExtensionRequirementTest.php on line 18
+[30-Aug-2020 16:11:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/UrlTest.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/UrlTest.php on line 18
+[30-Aug-2020 16:11:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/LicenseTest.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/LicenseTest.php on line 20
+[30-Aug-2020 16:11:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/BundledComponentTest.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/BundledComponentTest.php on line 21
+[30-Aug-2020 16:11:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/PhpVersionRequirementTest.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/PhpVersionRequirementTest.php on line 21
+[30-Aug-2020 16:11:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/CopyrightInformationTest.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/CopyrightInformationTest.php on line 25
+[30-Aug-2020 16:11:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/ApplicationTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/ApplicationTest.php on line 19
+[30-Aug-2020 16:11:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/BundledComponentCollectionTest.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/BundledComponentCollectionTest.php on line 23
+[30-Aug-2020 16:11:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/AuthorCollectionTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/AuthorCollectionTest.php on line 22
+[30-Aug-2020 16:11:13 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/LibraryTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/tests/values/LibraryTest.php on line 19

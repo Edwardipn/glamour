@@ -1,0 +1,7 @@
+[30-Aug-2020 16:11:16 America/Mexico_City] PHP Fatal error:  Interface 'Illuminate\Contracts\Filesystem\Cloud' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemAdapter.php on line 31
+[30-Aug-2020 16:11:16 America/Mexico_City] PHP Fatal error:  Interface 'Illuminate\Contracts\Filesystem\Factory' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Filesystem/FilesystemManager.php on line 23
+[30-Aug-2020 16:11:17 America/Mexico_City] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 15
+[30-Aug-2020 16:11:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'League\Flysystem\Cached\Storage\AbstractCache' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Filesystem/Cache.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Filesystem/Cache.php on line 8

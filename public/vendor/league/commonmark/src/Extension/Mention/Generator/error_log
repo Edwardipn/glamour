@@ -1,0 +1,1 @@
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Interface 'League\CommonMark\Extension\Mention\Generator\MentionGeneratorInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Extension/Mention/Generator/CallbackGenerator.php on line 17

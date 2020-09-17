@@ -1,0 +1,8 @@
+[30-Aug-2020 16:10:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\Constraint\Constraint' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/IdenticalBinaryConstraint.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/IdenticalBinaryConstraint.php on line 8
+[30-Aug-2020 16:10:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'SwiftMailerTestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/SwiftMailerSmokeTestCase.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/SwiftMailerSmokeTestCase.php on line 8

@@ -1,0 +1,5 @@
+[30-Aug-2020 16:10:55 America/Mexico_City] PHP Fatal error:  Interface 'Dotenv\Repository\RepositoryInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/vlucas/phpdotenv/src/Repository/AbstractRepository.php on line 8
+[30-Aug-2020 16:10:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Dotenv\Repository\AbstractRepository' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php on line 5

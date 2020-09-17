@@ -1,0 +1,12 @@
+[30-Aug-2020 16:11:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/dragonmantank/cron-expression/tests/Cron/MinutesFieldTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/dragonmantank/cron-expression/tests/Cron/MinutesFieldTest.php on line 13
+[30-Aug-2020 16:11:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/dragonmantank/cron-expression/tests/Cron/DayOfWeekFieldTest.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/dragonmantank/cron-expression/tests/Cron/DayOfWeekFieldTest.php on line 13
+[30-Aug-2020 16:11:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/dragonmantank/cron-expression/tests/Cron/CronExpressionTest.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/dragonmantank/cron-expression/tests/Cron/CronExpressionTest.php on line 16

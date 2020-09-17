@@ -1,0 +1,132 @@
+[30-Aug-2020 16:11:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php:29
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Mail.php on line 29
+[30-Aug-2020 16:11:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php:39
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Storage.php on line 39
+[30-Aug-2020 16:11:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Schema.php on line 21
+[30-Aug-2020 16:11:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php:88
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Date.php on line 88
+[30-Aug-2020 16:11:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php:35
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Auth.php on line 35
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Log.php on line 20
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Crypt.php on line 16
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/URL.php on line 23
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php on line 28
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/View.php on line 18
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Broadcast.php on line 15
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Notification.php on line 24
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Artisan.php on line 18
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Blade.php on line 31
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Validator.php on line 13
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php:47
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/App.php on line 47
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Password.php on line 18
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Lang.php on line 14
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Http.php on line 42
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Cookie.php on line 12
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php:47
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/File.php on line 47
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Cache.php on line 28
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Config.php on line 15
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Redis.php on line 13
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php:27
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Gate.php on line 27
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php:89
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php on line 89
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Redirect.php on line 23
+[30-Aug-2020 16:11:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Hash.php on line 13
+[30-Aug-2020 16:11:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Bus.php on line 22
+[30-Aug-2020 16:11:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Response.php on line 25
+[30-Aug-2020 16:11:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php:27
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Queue.php on line 27
+[30-Aug-2020 16:11:30 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php:33
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Session.php on line 33
+[30-Aug-2020 16:11:32 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php:42
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php on line 42

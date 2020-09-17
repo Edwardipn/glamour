@@ -1,0 +1,8 @@
+[30-Aug-2020 16:11:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 10
+[30-Aug-2020 16:11:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\GeneratorCommand' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php on line 7

@@ -1,0 +1,6 @@
+[30-Aug-2020 16:11:16 America/Mexico_City] PHP Fatal error:  Trait 'Illuminate\Log\ParsesLogConfiguration' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 23
+[30-Aug-2020 16:11:16 America/Mexico_City] PHP Fatal error:  Interface 'Psr\Log\LoggerInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 13
+[30-Aug-2020 16:11:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Log/LogServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Log/LogServiceProvider.php on line 7

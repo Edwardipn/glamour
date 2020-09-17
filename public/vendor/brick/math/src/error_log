@@ -1,0 +1,12 @@
+[30-Aug-2020 16:10:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Brick\Math\BigNumber' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/brick/math/src/BigDecimal.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/brick/math/src/BigDecimal.php on line 17
+[30-Aug-2020 16:10:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Brick\Math\BigNumber' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/brick/math/src/BigRational.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/brick/math/src/BigRational.php on line 19
+[30-Aug-2020 16:10:50 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Brick\Math\BigNumber' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/brick/math/src/BigInteger.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/brick/math/src/BigInteger.php on line 22

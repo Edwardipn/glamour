@@ -1,0 +1,4 @@
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\CountValidator\CountValidatorAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/CountValidator/AtMost.php on line 25

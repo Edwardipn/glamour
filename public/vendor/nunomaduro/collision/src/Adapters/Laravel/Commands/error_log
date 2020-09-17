@@ -1,0 +1,4 @@
+[30-Aug-2020 16:11:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nunomaduro/collision/src/Adapters/Laravel/Commands/TestCommand.php on line 13

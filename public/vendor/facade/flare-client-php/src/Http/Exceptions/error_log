@@ -1,0 +1,8 @@
+[30-Aug-2020 16:11:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Facade\FlareClient\Http\Exceptions\BadResponseCode' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/flare-client-php/src/Http/Exceptions/InvalidData.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/flare-client-php/src/Http/Exceptions/InvalidData.php on line 7
+[30-Aug-2020 16:11:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Facade\FlareClient\Http\Exceptions\BadResponseCode' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/flare-client-php/src/Http/Exceptions/NotFound.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/flare-client-php/src/Http/Exceptions/NotFound.php on line 7

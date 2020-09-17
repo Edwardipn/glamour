@@ -1,0 +1,2 @@
+[30-Aug-2020 16:11:27 America/Mexico_City] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Reporters/HtmlReporter.php on line 16
+[30-Aug-2020 16:11:27 America/Mexico_City] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Reporters/HitReporter.php on line 16

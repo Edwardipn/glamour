@@ -1,0 +1,9 @@
+[30-Aug-2020 16:10:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Facade\FlareClient\Truncation\AbstractTruncationStrategy' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/flare-client-php/src/Truncation/TrimContextItemsStrategy.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/flare-client-php/src/Truncation/TrimContextItemsStrategy.php on line 5
+[30-Aug-2020 16:10:57 America/Mexico_City] PHP Fatal error:  Interface 'Facade\FlareClient\Truncation\TruncationStrategy' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/flare-client-php/src/Truncation/AbstractTruncationStrategy.php on line 5
+[30-Aug-2020 16:11:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Facade\FlareClient\Truncation\AbstractTruncationStrategy' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/flare-client-php/src/Truncation/TrimStringsStrategy.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/flare-client-php/src/Truncation/TrimStringsStrategy.php on line 5

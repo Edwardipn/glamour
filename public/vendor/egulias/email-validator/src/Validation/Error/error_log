@@ -1,0 +1,8 @@
+[30-Aug-2020 16:11:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Exception\InvalidEmail' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Validation/Error/SpoofEmail.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Validation/Error/SpoofEmail.php on line 7
+[30-Aug-2020 16:11:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Exception\InvalidEmail' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Validation/Error/RFCWarnings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Validation/Error/RFCWarnings.php on line 7

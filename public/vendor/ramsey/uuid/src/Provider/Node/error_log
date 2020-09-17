@@ -1,0 +1,8 @@
+[30-Aug-2020 16:11:15 America/Mexico_City] PHP Fatal error:  Interface 'Ramsey\Uuid\Provider\NodeProviderInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Provider/Node/StaticNodeProvider.php on line 33
+[30-Aug-2020 16:11:15 America/Mexico_City] PHP Fatal error:  Interface 'Ramsey\Uuid\Provider\NodeProviderInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Provider/Node/SystemNodeProvider.php on line 45
+[30-Aug-2020 16:11:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Collection\AbstractCollection' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Provider/Node/NodeProviderCollection.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Provider/Node/NodeProviderCollection.php on line 25
+[30-Aug-2020 16:11:16 America/Mexico_City] PHP Fatal error:  Interface 'Ramsey\Uuid\Provider\NodeProviderInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Provider/Node/RandomNodeProvider.php on line 35
+[30-Aug-2020 16:11:17 America/Mexico_City] PHP Fatal error:  Interface 'Ramsey\Uuid\Provider\NodeProviderInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Provider/Node/FallbackNodeProvider.php on line 25

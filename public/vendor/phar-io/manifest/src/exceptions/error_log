@@ -1,0 +1,3 @@
+[30-Aug-2020 16:11:12 America/Mexico_City] PHP Fatal error:  Interface 'PharIo\Manifest\Exception' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/exceptions/ManifestDocumentException.php on line 5
+[30-Aug-2020 16:11:12 America/Mexico_City] PHP Fatal error:  Interface 'PharIo\Manifest\Exception' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/exceptions/InvalidEmailException.php on line 13
+[30-Aug-2020 16:11:13 America/Mexico_City] PHP Fatal error:  Interface 'PharIo\Manifest\Exception' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/exceptions/InvalidApplicationNameException.php on line 13

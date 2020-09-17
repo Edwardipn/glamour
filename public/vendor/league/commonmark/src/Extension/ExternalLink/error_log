@@ -1,0 +1,1 @@
+[30-Aug-2020 16:11:07 America/Mexico_City] PHP Fatal error:  Interface 'League\CommonMark\Extension\ExtensionInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Extension/ExternalLink/ExternalLinkExtension.php on line 18

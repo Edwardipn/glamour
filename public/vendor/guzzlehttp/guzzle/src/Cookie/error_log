@@ -1,0 +1,9 @@
+[30-Aug-2020 16:11:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'GuzzleHttp\Cookie\CookieJar' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php on line 7
+[30-Aug-2020 16:11:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'GuzzleHttp\Cookie\CookieJar' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php on line 7
+[30-Aug-2020 16:11:01 America/Mexico_City] PHP Fatal error:  Interface 'GuzzleHttp\Cookie\CookieJarInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php on line 10

@@ -1,0 +1,2 @@
+[30-Aug-2020 16:11:17 America/Mexico_City] PHP Fatal error:  Interface 'Swift_StreamFilter' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/StreamFilters/ByteArrayReplacementFilter.php on line 18
+[30-Aug-2020 16:11:18 America/Mexico_City] PHP Fatal error:  Interface 'Swift_ReplacementFilterFactory' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/StreamFilters/StringReplacementFilterFactory.php on line 16

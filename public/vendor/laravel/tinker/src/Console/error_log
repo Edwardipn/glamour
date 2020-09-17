@@ -1,0 +1,4 @@
+[30-Aug-2020 16:11:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/tinker/src/Console/TinkerCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 14

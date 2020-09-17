@@ -1,0 +1,1 @@
+[30-Aug-2020 16:11:06 America/Mexico_City] PHP Fatal error:  Interface 'PHPStan\Reflection\Php\BuiltinMethodReflection' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nesbot/carbon/src/Carbon/PHPStan/Macro.php on line 18

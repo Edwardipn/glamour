@@ -1,0 +1,5 @@
+[30-Aug-2020 16:11:01 America/Mexico_City] PHP Fatal error:  Interface 'SebastianBergmann\Diff\Exception' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/diff/src/Exception/InvalidArgumentException.php on line 13
+[30-Aug-2020 16:11:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Diff\InvalidArgumentException' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/diff/src/Exception/ConfigurationException.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/diff/src/Exception/ConfigurationException.php on line 13

@@ -1,0 +1,1 @@
+[30-Aug-2020 16:10:58 America/Mexico_City] PHP Fatal error:  Trait 'Facade\FlareClient\Concerns\UsesTime' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/flare-client-php/src/Glows/Glow.php on line 10

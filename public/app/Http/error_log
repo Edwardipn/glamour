@@ -1,0 +1,4 @@
+[30-Aug-2020 16:10:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Http\Kernel' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/app/Http/Kernel.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/app/Http/Kernel.php on line 7

@@ -1,0 +1,5 @@
+[30-Aug-2020 16:11:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/hamcrest/hamcrest-php/tests/Hamcrest/MatcherAssertTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/hamcrest/hamcrest-php/tests/Hamcrest/MatcherAssertTest.php on line 6
+[30-Aug-2020 16:11:07 America/Mexico_City] PHP Fatal error:  Interface 'Hamcrest\SelfDescribing' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/hamcrest/hamcrest-php/tests/Hamcrest/StringDescriptionTest.php on line 6

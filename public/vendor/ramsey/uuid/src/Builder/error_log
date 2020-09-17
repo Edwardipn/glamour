@@ -1,0 +1,5 @@
+[30-Aug-2020 16:11:06 America/Mexico_City] PHP Fatal error:  Interface 'Ramsey\Uuid\Builder\UuidBuilderInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Builder/FallbackBuilder.php on line 28
+[30-Aug-2020 16:11:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Uuid\Rfc4122\UuidBuilder' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Builder/DefaultUuidBuilder.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Builder/DefaultUuidBuilder.php on line 24

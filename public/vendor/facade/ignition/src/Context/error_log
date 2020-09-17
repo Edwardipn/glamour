@@ -1,0 +1,5 @@
+[30-Aug-2020 16:10:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Facade\FlareClient\Context\RequestContext' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/ignition/src/Context/LaravelRequestContext.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/ignition/src/Context/LaravelRequestContext.php on line 8
+[30-Aug-2020 16:10:56 America/Mexico_City] PHP Fatal error:  Interface 'Facade\FlareClient\Context\ContextDetectorInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/ignition/src/Context/LaravelContextDetector.php on line 9

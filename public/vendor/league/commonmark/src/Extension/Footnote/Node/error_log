@@ -1,0 +1,16 @@
+[30-Aug-2020 16:11:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Block\Element\AbstractBlock' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php on line 24
+[30-Aug-2020 16:11:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Inline\Element\AbstractInline' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php on line 23
+[30-Aug-2020 16:11:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Inline\Element\AbstractInline' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php on line 20
+[30-Aug-2020 16:11:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Block\Element\AbstractBlock' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php on line 23

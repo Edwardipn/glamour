@@ -1,0 +1,12 @@
+[30-Aug-2020 16:11:13 America/Mexico_City] PHP Fatal error:  Interface 'PhpParser\Lexer\TokenEmulator\TokenEmulatorInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/KeywordEmulator.php on line 5
+[30-Aug-2020 16:11:13 America/Mexico_City] PHP Fatal error:  Interface 'PhpParser\Lexer\TokenEmulator\TokenEmulatorInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/CoaleseEqualTokenEmulator.php on line 7
+[30-Aug-2020 16:11:13 America/Mexico_City] PHP Fatal error:  Interface 'PhpParser\Lexer\TokenEmulator\TokenEmulatorInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/NullsafeTokenEmulator.php on line 7
+[30-Aug-2020 16:11:14 America/Mexico_City] PHP Fatal error:  Interface 'PhpParser\Lexer\TokenEmulator\TokenEmulatorInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/NumericLiteralSeparatorEmulator.php on line 7
+[30-Aug-2020 16:11:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\KeywordEmulator' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/MatchTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/MatchTokenEmulator.php on line 7
+[30-Aug-2020 16:11:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Lexer\TokenEmulator\KeywordEmulator' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/FnTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/FnTokenEmulator.php on line 7

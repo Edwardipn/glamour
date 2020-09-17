@@ -1,0 +1,1 @@
+[30-Aug-2020 16:11:22 America/Mexico_City] PHP Fatal error:  Interface 'Swift_InputByteStream' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/ByteStream/ArrayByteStream.php on line 16

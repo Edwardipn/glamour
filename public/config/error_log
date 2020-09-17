@@ -1,0 +1,92 @@
+[30-Aug-2020 16:10:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/app.php on line 16
+[30-Aug-2020 16:10:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/queue.php on line 16
+[30-Aug-2020 16:10:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/mail.php on line 16
+[30-Aug-2020 16:10:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/services.php on line 18
+[30-Aug-2020 16:10:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/session.php on line 21
+[30-Aug-2020 16:10:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/view.php on line 17
+[30-Aug-2020 16:10:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/broadcasting.php on line 18
+[30-Aug-2020 16:10:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/cache.php on line 21
+[30-Aug-2020 16:10:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/database.php on line 18
+[30-Aug-2020 16:10:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/filesystems.php on line 16
+[30-Aug-2020 16:10:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/hashing.php on line 32
+[30-Aug-2020 16:10:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/mail.php on line 16
+[30-Aug-2020 16:10:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/broadcasting.php on line 18
+[30-Aug-2020 16:10:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/app.php on line 16
+[30-Aug-2020 16:10:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/session.php on line 21
+[30-Aug-2020 16:10:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/queue.php on line 16
+[30-Aug-2020 16:10:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/hashing.php on line 32
+[30-Aug-2020 16:10:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/database.php on line 18
+[30-Aug-2020 16:10:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/cache.php on line 21
+[30-Aug-2020 16:10:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/filesystems.php on line 16
+[30-Aug-2020 16:10:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/services.php on line 18
+[30-Aug-2020 16:10:22 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/view.php on line 17
+[30-Aug-2020 16:10:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/logging.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/config/logging.php on line 20

@@ -1,0 +1,12 @@
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'GuzzleHttp\Promise\RejectionException' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/guzzlehttp/promises/src/AggregateException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/guzzlehttp/promises/src/AggregateException.php on line 7
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Interface 'GuzzleHttp\Promise\PromiseInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/guzzlehttp/promises/src/Coroutine.php on line 43
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'GuzzleHttp\Promise\RejectionException' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/guzzlehttp/promises/src/CancellationException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/guzzlehttp/promises/src/CancellationException.php on line 7
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Interface 'GuzzleHttp\Promise\PromiseInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/guzzlehttp/promises/src/FulfilledPromise.php on line 10
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Interface 'GuzzleHttp\Promise\PromiseInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/guzzlehttp/promises/src/RejectedPromise.php on line 10
+[30-Aug-2020 16:10:48 America/Mexico_City] PHP Fatal error:  Interface 'GuzzleHttp\Promise\PromiseInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/guzzlehttp/promises/src/Promise.php on line 9

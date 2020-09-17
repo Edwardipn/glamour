@@ -1,0 +1,1 @@
+[30-Aug-2020 16:10:46 America/Mexico_City] PHP Fatal error:  Interface 'Psr\SimpleCache\CacheException' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/psr/simple-cache/src/InvalidArgumentException.php on line 11

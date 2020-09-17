@@ -1,0 +1,14 @@
+[30-Aug-2020 16:10:46 America/Mexico_City] PHP Fatal error:  Interface 'League\CommonMark\EnvironmentInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/ConfigurableEnvironmentInterface.php on line 24
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\CommonMarkConverter' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/GithubFlavoredMarkdownConverter.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/GithubFlavoredMarkdownConverter.php on line 17
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Interface 'League\CommonMark\ContextInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Context.php on line 24
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Converter' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/CommonMarkConverter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/CommonMarkConverter.php on line 20
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Interface 'League\CommonMark\DocParserInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/DocParser.php on line 26
+[30-Aug-2020 16:10:48 America/Mexico_City] PHP Fatal error:  Interface 'League\CommonMark\ConfigurableEnvironmentInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Environment.php on line 31
+[30-Aug-2020 16:10:49 America/Mexico_City] PHP Fatal error:  Interface 'League\CommonMark\ElementRendererInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/HtmlRenderer.php on line 25
+[30-Aug-2020 16:10:50 America/Mexico_City] PHP Fatal error:  Interface 'League\CommonMark\ConverterInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Converter.php on line 19

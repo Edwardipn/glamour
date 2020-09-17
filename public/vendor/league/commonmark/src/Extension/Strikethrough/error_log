@@ -1,0 +1,6 @@
+[30-Aug-2020 16:11:03 America/Mexico_City] PHP Fatal error:  Interface 'League\CommonMark\Extension\ExtensionInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Extension/Strikethrough/StrikethroughExtension.php on line 17
+[30-Aug-2020 16:11:04 America/Mexico_City] PHP Fatal error:  Interface 'League\CommonMark\Inline\Renderer\InlineRendererInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Extension/Strikethrough/StrikethroughRenderer.php on line 19
+[30-Aug-2020 16:11:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Inline\Element\AbstractInline' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Extension/Strikethrough/Strikethrough.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Extension/Strikethrough/Strikethrough.php on line 16

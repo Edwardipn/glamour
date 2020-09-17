@@ -1,0 +1,2 @@
+[30-Aug-2020 16:10:46 America/Mexico_City] PHP Fatal error:  Interface 'Facade\IgnitionContracts\Solution' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/ignition-contracts/src/BaseSolution.php on line 5
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Interface 'Facade\IgnitionContracts\Solution' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/ignition-contracts/src/RunnableSolution.php on line 5

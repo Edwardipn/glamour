@@ -1,0 +1,48 @@
+[30-Aug-2020 16:11:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug71Test.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug71Test.php on line 3
+[30-Aug-2020 16:11:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'SwiftMailerTestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug534Test.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug534Test.php on line 5
+[30-Aug-2020 16:11:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug111Test.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug111Test.php on line 3
+[30-Aug-2020 16:11:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug650Test.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug650Test.php on line 5
+[30-Aug-2020 16:11:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug118Test.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug118Test.php on line 3
+[30-Aug-2020 16:11:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug206Test.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug206Test.php on line 5
+[30-Aug-2020 16:11:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/BugFileByteStreamConsecutiveReadCallsTest.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/BugFileByteStreamConsecutiveReadCallsTest.php on line 3
+[30-Aug-2020 16:11:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug34Test.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug34Test.php on line 3
+[30-Aug-2020 16:11:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug274Test.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug274Test.php on line 3
+[30-Aug-2020 16:11:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'SwiftMailerTestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug51Test.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug51Test.php on line 3
+[30-Aug-2020 16:11:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug35Test.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug35Test.php on line 3
+[30-Aug-2020 16:11:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug38Test.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/tests/bug/Swift/Bug38Test.php on line 3

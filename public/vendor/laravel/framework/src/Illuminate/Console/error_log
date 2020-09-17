@@ -1,0 +1,16 @@
+[30-Aug-2020 16:11:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Application' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Console/Application.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Console/Application.php on line 26
+[30-Aug-2020 16:11:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php on line 9
+[30-Aug-2020 16:11:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Style\SymfonyStyle' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Console/OutputStyle.php on line 9
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Console\Command\Command' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Console/Command.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Console/Command.php on line 10

@@ -1,0 +1,1 @@
+[30-Aug-2020 16:10:55 America/Mexico_City] PHP Fatal error:  Interface 'League\CommonMark\Normalizer\TextNormalizerInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Normalizer/TextNormalizer.php on line 21

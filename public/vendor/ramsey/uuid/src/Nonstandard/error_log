@@ -1,0 +1,9 @@
+[30-Aug-2020 16:11:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Uuid\Uuid' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Nonstandard/Uuid.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Nonstandard/Uuid.php on line 28
+[30-Aug-2020 16:11:07 America/Mexico_City] PHP Fatal error:  Trait 'Ramsey\Uuid\Fields\SerializableFieldsTrait' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Nonstandard/Fields.php on line 47
+[30-Aug-2020 16:11:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Uuid\Uuid' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php:46
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Nonstandard/UuidV6.php on line 46

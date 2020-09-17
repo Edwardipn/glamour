@@ -1,0 +1,1 @@
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Interface 'Symfony\Component\HttpKernel\HttpKernelInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/asm89/stack-cors/src/Cors.php on line 18

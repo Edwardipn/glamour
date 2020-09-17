@@ -1,0 +1,4 @@
+[30-Aug-2020 16:10:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/object-enumerator/tests/EnumeratorTest.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/object-enumerator/tests/EnumeratorTest.php on line 19

@@ -1,0 +1,5 @@
+[30-Aug-2020 16:11:08 America/Mexico_City] PHP Fatal error:  Interface 'League\CommonMark\Extension\ExtensionInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php on line 21
+[30-Aug-2020 16:11:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Inline\Element\AbstractInline' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php on line 19

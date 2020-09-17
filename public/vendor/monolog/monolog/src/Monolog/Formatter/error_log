@@ -1,0 +1,22 @@
+[30-Aug-2020 16:11:05 America/Mexico_City] PHP Fatal error:  Interface 'Monolog\Formatter\FormatterInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php on line 19
+[30-Aug-2020 16:11:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Formatter\NormalizerFormatter' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php on line 24
+[30-Aug-2020 16:11:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Formatter\JsonFormatter' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php on line 19
+[30-Aug-2020 16:11:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Formatter\NormalizerFormatter' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php on line 24
+[30-Aug-2020 16:11:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Formatter\NormalizerFormatter' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php on line 23
+[30-Aug-2020 16:11:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Formatter\JsonFormatter' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Formatter/LogmaticFormatter.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Formatter/LogmaticFormatter.php on line 19
+[30-Aug-2020 16:11:07 America/Mexico_City] PHP Fatal error:  Interface 'Monolog\Formatter\FormatterInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Formatter/FluentdFormatter.php on line 37

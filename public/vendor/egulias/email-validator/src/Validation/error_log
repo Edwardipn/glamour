@@ -1,0 +1,12 @@
+[30-Aug-2020 16:11:01 America/Mexico_City] PHP Fatal error:  Interface 'Egulias\EmailValidator\Validation\EmailValidation' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Validation/DNSCheckValidation.php on line 12
+[30-Aug-2020 16:11:01 America/Mexico_City] PHP Fatal error:  Interface 'Egulias\EmailValidator\Validation\EmailValidation' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Validation/SpoofCheckValidation.php on line 10
+[30-Aug-2020 16:11:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Validation\RFCValidation' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Validation/NoRFCWarningsValidation.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Validation/NoRFCWarningsValidation.php on line 9
+[30-Aug-2020 16:11:01 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Exception\InvalidEmail' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Validation/MultipleErrors.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Validation/MultipleErrors.php on line 7
+[30-Aug-2020 16:11:01 America/Mexico_City] PHP Fatal error:  Interface 'Egulias\EmailValidator\Validation\EmailValidation' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Validation/MultipleValidationWithAnd.php on line 8
+[30-Aug-2020 16:11:02 America/Mexico_City] PHP Fatal error:  Interface 'Egulias\EmailValidator\Validation\EmailValidation' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Validation/RFCValidation.php on line 9

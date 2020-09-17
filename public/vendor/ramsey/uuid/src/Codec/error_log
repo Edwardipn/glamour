@@ -1,0 +1,8 @@
+[30-Aug-2020 16:11:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Codec/GuidStringCodec.php:30
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Codec/GuidStringCodec.php on line 30
+[30-Aug-2020 16:11:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Uuid\Codec\StringCodec' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Codec/OrderedTimeCodec.php:46
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Codec/OrderedTimeCodec.php on line 46

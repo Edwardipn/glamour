@@ -1,0 +1,60 @@
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\Matcher\MatcherAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/AnyArgs.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/AnyArgs.php on line 23
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\Matcher\MatcherAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/Pattern.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/Pattern.php on line 23
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\Matcher\MatcherAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/AnyOf.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/AnyOf.php on line 23
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\Matcher\MatcherAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/Any.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/Any.php on line 23
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\Matcher\MatcherAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/Type.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/Type.php on line 23
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\Matcher\MatcherAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/HasValue.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/HasValue.php on line 23
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\Matcher\MatcherAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/Ducktype.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/Ducktype.php on line 23
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\Matcher\MatcherAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/Closure.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/Closure.php on line 23
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\Matcher\MatcherAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/HasKey.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/HasKey.php on line 23
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\Matcher\MatcherAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/AndAnyOtherArgs.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/AndAnyOtherArgs.php on line 23
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\Matcher\MatcherAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/Subset.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/Subset.php on line 23
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\Matcher\MatcherAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/Not.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/Not.php on line 23
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\Matcher\MatcherAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/NotAnyOf.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/NotAnyOf.php on line 23
+[30-Aug-2020 16:11:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\Matcher\MatcherAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/PHPUnitConstraint.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/PHPUnitConstraint.php on line 25
+[30-Aug-2020 16:11:26 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\Matcher\MatcherAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/Contains.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Matcher/Contains.php on line 23

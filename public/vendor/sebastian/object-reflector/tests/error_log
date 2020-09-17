@@ -1,0 +1,4 @@
+[30-Aug-2020 16:10:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/object-reflector/tests/ObjectReflectorTest.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/object-reflector/tests/ObjectReflectorTest.php on line 22

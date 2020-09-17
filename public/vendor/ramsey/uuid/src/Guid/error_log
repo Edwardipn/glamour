@@ -1,0 +1,4 @@
+[30-Aug-2020 16:11:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Ramsey\Uuid\Uuid' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Guid/Guid.php:52
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/ramsey/uuid/src/Guid/Guid.php on line 52

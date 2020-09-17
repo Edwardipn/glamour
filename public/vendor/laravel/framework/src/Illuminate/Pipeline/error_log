@@ -1,0 +1,6 @@
+[30-Aug-2020 16:11:17 America/Mexico_City] PHP Fatal error:  Interface 'Illuminate\Contracts\Pipeline\Hub' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 9
+[30-Aug-2020 16:11:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 9
+[30-Aug-2020 16:11:18 America/Mexico_City] PHP Fatal error:  Interface 'Illuminate\Contracts\Pipeline\Pipeline' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 11

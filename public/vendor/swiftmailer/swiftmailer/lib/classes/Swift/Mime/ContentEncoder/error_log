@@ -1,0 +1,13 @@
+[30-Aug-2020 16:11:27 America/Mexico_City] PHP Fatal error:  Interface 'Swift_Mime_ContentEncoder' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/NativeQpContentEncoder.php on line 16
+[30-Aug-2020 16:11:27 America/Mexico_City] PHP Fatal error:  Interface 'Swift_Mime_ContentEncoder' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/NullContentEncoder.php on line 17
+[30-Aug-2020 16:11:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Swift_Encoder_Base64Encoder' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/Base64ContentEncoder.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/Base64ContentEncoder.php on line 16
+[30-Aug-2020 16:11:27 America/Mexico_City] PHP Fatal error:  Interface 'Swift_Mime_ContentEncoder' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/RawContentEncoder.php on line 20
+[30-Aug-2020 16:11:27 America/Mexico_City] PHP Fatal error:  Interface 'Swift_Mime_ContentEncoder' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/PlainContentEncoder.php on line 20
+[30-Aug-2020 16:11:27 America/Mexico_City] PHP Fatal error:  Interface 'Swift_Mime_ContentEncoder' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/QpContentEncoderProxy.php on line 18
+[30-Aug-2020 16:11:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Swift_Encoder_QpEncoder' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/QpContentEncoder.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/ContentEncoder/QpContentEncoder.php on line 16

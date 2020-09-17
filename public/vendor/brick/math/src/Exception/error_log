@@ -1,0 +1,20 @@
+[30-Aug-2020 16:11:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Brick\Math\Exception\MathException' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/brick/math/src/Exception/DivisionByZeroException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/brick/math/src/Exception/DivisionByZeroException.php on line 10
+[30-Aug-2020 16:11:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Brick\Math\Exception\MathException' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/brick/math/src/Exception/NumberFormatException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/brick/math/src/Exception/NumberFormatException.php on line 10
+[30-Aug-2020 16:11:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Brick\Math\Exception\MathException' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/brick/math/src/Exception/IntegerOverflowException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/brick/math/src/Exception/IntegerOverflowException.php on line 12
+[30-Aug-2020 16:11:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Brick\Math\Exception\MathException' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/brick/math/src/Exception/NegativeNumberException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/brick/math/src/Exception/NegativeNumberException.php on line 10
+[30-Aug-2020 16:11:02 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Brick\Math\Exception\MathException' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/brick/math/src/Exception/RoundingNecessaryException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/brick/math/src/Exception/RoundingNecessaryException.php on line 10

@@ -1,0 +1,4 @@
+[30-Aug-2020 16:11:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\ObjectReflector\TestFixture\ParentClass' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/object-reflector/tests/_fixture/ChildClass.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/object-reflector/tests/_fixture/ChildClass.php on line 15

@@ -1,0 +1,20 @@
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst.php on line 7
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/DNumber.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/DNumber.php on line 7
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/EncapsedStringPart.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/EncapsedStringPart.php on line 7
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/String_.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/String_.php on line 8
+[30-Aug-2020 16:11:21 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Scalar' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/LNumber.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/LNumber.php on line 8

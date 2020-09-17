@@ -1,0 +1,30 @@
+[30-Aug-2020 16:10:46 America/Mexico_City] PHP Fatal error:  Interface 'League\Flysystem\FilesystemException' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/flysystem/src/ConnectionErrorException.php on line 7
+[30-Aug-2020 16:10:46 America/Mexico_City] PHP Fatal error:  Interface 'League\Flysystem\FilesystemException' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/flysystem/src/InvalidRootException.php on line 7
+[30-Aug-2020 16:10:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'League\Flysystem\Exception' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/flysystem/src/FileExistsException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/flysystem/src/FileExistsException.php on line 7
+[30-Aug-2020 16:10:46 America/Mexico_City] PHP Fatal error:  Interface 'League\Flysystem\FilesystemException' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/flysystem/src/ConnectionRuntimeException.php on line 7
+[30-Aug-2020 16:10:46 America/Mexico_City] PHP Fatal error:  Interface 'League\Flysystem\FilesystemException' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/flysystem/src/FilesystemNotFoundException.php on line 10
+[30-Aug-2020 16:10:46 America/Mexico_City] PHP Fatal error:  Interface 'League\Flysystem\FilesystemException' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/flysystem/src/RootViolationException.php on line 7
+[30-Aug-2020 16:10:46 America/Mexico_City] PHP Fatal error:  Interface 'League\Flysystem\FilesystemException' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/flysystem/src/NotSupportedException.php on line 8
+[30-Aug-2020 16:10:46 America/Mexico_City] PHP Fatal error:  Interface 'League\Flysystem\FilesystemException' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/flysystem/src/Exception.php on line 5
+[30-Aug-2020 16:10:46 America/Mexico_City] PHP Fatal error:  Trait 'League\Flysystem\Plugin\PluggableTrait' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/flysystem/src/MountManager.php on line 28
+[30-Aug-2020 16:10:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'League\Flysystem\Handler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/flysystem/src/File.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/flysystem/src/File.php on line 8
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Interface 'League\Flysystem\ReadInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/flysystem/src/AdapterInterface.php on line 5
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'League\Flysystem\Handler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/flysystem/src/Directory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/flysystem/src/Directory.php on line 8
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'League\Flysystem\Exception' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/flysystem/src/FileNotFoundException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/flysystem/src/FileNotFoundException.php on line 7
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'League\Flysystem\Exception' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/flysystem/src/UnreadableFileException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/flysystem/src/UnreadableFileException.php on line 7
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Trait 'League\Flysystem\Plugin\PluggableTrait' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/flysystem/src/Filesystem.php on line 20

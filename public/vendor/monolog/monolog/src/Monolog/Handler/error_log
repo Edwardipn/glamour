@@ -1,0 +1,137 @@
+[30-Aug-2020 16:11:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/FirePHPHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/FirePHPHandler.php on line 22
+[30-Aug-2020 16:11:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\SocketHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/FleepHookHandler.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/FleepHookHandler.php on line 26
+[30-Aug-2020 16:11:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/AbstractProcessingHandler.php on line 22
+[30-Aug-2020 16:11:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\Handler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/AbstractHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/AbstractHandler.php on line 22
+[30-Aug-2020 16:11:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/RedisHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/RedisHandler.php on line 29
+[30-Aug-2020 16:11:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/AmqpHandler.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/AmqpHandler.php on line 21
+[30-Aug-2020 16:11:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/DoctrineCouchDBHandler.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/DoctrineCouchDBHandler.php on line 24
+[30-Aug-2020 16:11:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/ErrorLogHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/ErrorLogHandler.php on line 23
+[30-Aug-2020 16:11:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\SocketHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/FlowdockHandler.php:30
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/FlowdockHandler.php on line 30
+[30-Aug-2020 16:11:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/AbstractSyslogHandler.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/AbstractSyslogHandler.php on line 21
+[30-Aug-2020 16:11:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\Handler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php:36
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/FingersCrossedHandler.php on line 36
+[30-Aug-2020 16:11:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\MailHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/NativeMailerHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/NativeMailerHandler.php on line 23
+[30-Aug-2020 16:11:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/DynamoDbHandler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/DynamoDbHandler.php on line 27
+[30-Aug-2020 16:11:05 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\SocketHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/InsightOpsHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/InsightOpsHandler.php on line 22
+[30-Aug-2020 16:11:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/BufferHandler.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/BufferHandler.php on line 26
+[30-Aug-2020 16:11:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/NewRelicHandler.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/NewRelicHandler.php on line 28
+[30-Aug-2020 16:11:06 America/Mexico_City] PHP Fatal error:  Interface 'Monolog\Handler\HandlerInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/HandlerWrapper.php on line 34
+[30-Aug-2020 16:11:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/PsrHandler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/PsrHandler.php on line 27
+[30-Aug-2020 16:11:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/ElasticaHandler.php:36
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/ElasticaHandler.php on line 36
+[30-Aug-2020 16:11:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\Handler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/NullHandler.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/NullHandler.php on line 24
+[30-Aug-2020 16:11:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/TelegramBotHandler.php:31
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/TelegramBotHandler.php on line 31
+[30-Aug-2020 16:11:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\SocketHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/PushoverHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/PushoverHandler.php on line 23
+[30-Aug-2020 16:11:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\SocketHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/LogEntriesHandler.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/LogEntriesHandler.php on line 19
+[30-Aug-2020 16:11:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\MailHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/SendGridHandler.php:21
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/SendGridHandler.php on line 21
+[30-Aug-2020 16:11:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\Handler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/FilterHandler.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/FilterHandler.php on line 26
+[30-Aug-2020 16:11:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\Handler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/GroupHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/GroupHandler.php on line 22
+[30-Aug-2020 16:11:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/SlackWebhookHandler.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/SlackWebhookHandler.php on line 25
+[30-Aug-2020 16:11:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\MailHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/MandrillHandler.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/MandrillHandler.php on line 22
+[30-Aug-2020 16:11:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/SamplingHandler.php:30
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/SamplingHandler.php on line 30
+[30-Aug-2020 16:11:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\MailHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/SwiftMailerHandler.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/SwiftMailerHandler.php on line 25
+[30-Aug-2020 16:11:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/BrowserConsoleHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/BrowserConsoleHandler.php on line 23
+[30-Aug-2020 16:11:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\BufferHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/DeduplicationHandler.php:36
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/DeduplicationHandler.php on line 36
+[30-Aug-2020 16:11:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/ProcessHandler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/ProcessHandler.php on line 27
+[30-Aug-2020 16:11:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/CouchDBHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/CouchDBHandler.php on line 23
+[30-Aug-2020 16:11:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Monolog\Handler\AbstractProcessingHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/SqsHandler.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/monolog/monolog/src/Monolog/Handler/SqsHandler.php on line 23

@@ -1,0 +1,13 @@
+[30-Aug-2020 16:11:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\Type' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/values/Application.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/values/Application.php on line 13
+[30-Aug-2020 16:11:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\Type' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/values/Extension.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/values/Extension.php on line 16
+[30-Aug-2020 16:11:12 America/Mexico_City] PHP Fatal error:  Interface 'PharIo\Manifest\Requirement' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/values/PhpExtensionRequirement.php on line 13
+[30-Aug-2020 16:11:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\Type' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/values/Library.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/values/Library.php on line 13

@@ -1,0 +1,21 @@
+[30-Aug-2020 16:11:10 America/Mexico_City] PHP Fatal error:  Interface 'Cron\FieldInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/dragonmantank/cron-expression/src/Cron/AbstractField.php on line 8
+[30-Aug-2020 16:11:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Cron\AbstractField' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/dragonmantank/cron-expression/src/Cron/MonthField.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/dragonmantank/cron-expression/src/Cron/MonthField.php on line 10
+[30-Aug-2020 16:11:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Cron\AbstractField' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/dragonmantank/cron-expression/src/Cron/HoursField.php:11
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/dragonmantank/cron-expression/src/Cron/HoursField.php on line 11
+[30-Aug-2020 16:11:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Cron\AbstractField' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/dragonmantank/cron-expression/src/Cron/MinutesField.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/dragonmantank/cron-expression/src/Cron/MinutesField.php on line 10
+[30-Aug-2020 16:11:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Cron\AbstractField' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/dragonmantank/cron-expression/src/Cron/DayOfWeekField.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/dragonmantank/cron-expression/src/Cron/DayOfWeekField.php on line 22
+[30-Aug-2020 16:11:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Cron\AbstractField' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/dragonmantank/cron-expression/src/Cron/DayOfMonthField.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/dragonmantank/cron-expression/src/Cron/DayOfMonthField.php on line 26

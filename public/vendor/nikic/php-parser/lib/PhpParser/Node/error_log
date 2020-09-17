@@ -1,0 +1,29 @@
+[30-Aug-2020 16:11:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 7
+[30-Aug-2020 16:11:08 America/Mexico_City] PHP Fatal error:  Interface 'PhpParser\Node' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[30-Aug-2020 16:11:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[30-Aug-2020 16:11:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[30-Aug-2020 16:11:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Expr' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[30-Aug-2020 16:11:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 7
+[30-Aug-2020 16:11:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Identifier' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[30-Aug-2020 16:11:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\NodeAbstract' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7

@@ -1,0 +1,1 @@
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 16

@@ -1,0 +1,4 @@
+[30-Aug-2020 16:10:46 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Http\Request' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/fideloper/proxy/config/trustedproxy.php:48
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/fideloper/proxy/config/trustedproxy.php on line 48

@@ -1,0 +1,12 @@
+[30-Aug-2020 16:10:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Carbon\Factory' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nesbot/carbon/src/Carbon/FactoryImmutable.php:212
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nesbot/carbon/src/Carbon/FactoryImmutable.php on line 212
+[30-Aug-2020 16:10:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\Translation\Translator' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nesbot/carbon/src/Carbon/Translator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nesbot/carbon/src/Carbon/Translator.php on line 18
+[30-Aug-2020 16:10:57 America/Mexico_City] PHP Fatal error:  Trait 'Carbon\Traits\Date' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nesbot/carbon/src/Carbon/Carbon.php on line 512
+[30-Aug-2020 16:10:58 America/Mexico_City] PHP Fatal error:  Trait 'Carbon\Traits\Date' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nesbot/carbon/src/Carbon/CarbonImmutable.php on line 512
+[30-Aug-2020 16:10:58 America/Mexico_City] PHP Fatal error:  Trait 'Carbon\Traits\IntervalRounding' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nesbot/carbon/src/Carbon/CarbonPeriod.php on line 157
+[30-Aug-2020 16:10:58 America/Mexico_City] PHP Fatal error:  Trait 'Carbon\Traits\IntervalRounding' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nesbot/carbon/src/Carbon/CarbonInterval.php on line 163

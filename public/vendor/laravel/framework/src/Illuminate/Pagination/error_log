@@ -1,0 +1,13 @@
+[30-Aug-2020 16:11:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Pagination/PaginationServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Pagination/PaginationServiceProvider.php on line 7
+[30-Aug-2020 16:11:18 America/Mexico_City] PHP Fatal error:  Trait 'Illuminate\Support\Traits\ForwardsCalls' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Pagination/AbstractPaginator.php on line 17
+[30-Aug-2020 16:11:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Pagination\AbstractPaginator' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Pagination/Paginator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Pagination/Paginator.php on line 14
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Pagination\AbstractPaginator' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Pagination/LengthAwarePaginator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Pagination/LengthAwarePaginator.php on line 14

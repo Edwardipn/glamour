@@ -1,0 +1,8 @@
+[30-Aug-2020 16:11:35 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php on line 7
+[30-Aug-2020 16:11:35 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Symfony\Component\HttpKernel\Exception\HttpException' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Routing/Exceptions/InvalidSignatureException.php on line 7

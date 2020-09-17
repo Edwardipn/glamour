@@ -1,0 +1,5 @@
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Uncaught UnexpectedValueException: creating archive "/home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/paragonie/random_compat/dist/random_compat.phar" disabled by the php.ini setting phar.readonly in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/paragonie/random_compat/other/build_phar.php:12
+Stack trace:
+#0 /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/paragonie/random_compat/other/build_phar.php(12): Phar->__construct('/home3/ticdesar...', 256, 'random_compat.p...')
+#1 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/paragonie/random_compat/other/build_phar.php on line 12

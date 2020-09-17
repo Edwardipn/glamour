@@ -1,0 +1,26 @@
+[30-Aug-2020 16:11:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Swift_Mime_Headers_AbstractHeader' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/DateHeader.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/DateHeader.php on line 16
+[30-Aug-2020 16:11:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Swift_Mime_Headers_AbstractHeader' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/MailboxHeader.php on line 19
+[30-Aug-2020 16:11:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Swift_Mime_Headers_AbstractHeader' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/PathHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/PathHeader.php on line 19
+[30-Aug-2020 16:11:27 America/Mexico_City] PHP Fatal error:  Interface 'Swift_Mime_Header' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/OpenDKIMHeader.php on line 18
+[30-Aug-2020 16:11:27 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Swift_Mime_Headers_AbstractHeader' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/UnstructuredHeader.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/UnstructuredHeader.php on line 16
+[30-Aug-2020 16:11:28 America/Mexico_City] PHP Fatal error:  Interface 'Swift_Mime_Header' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/AbstractHeader.php on line 16
+[30-Aug-2020 16:11:29 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Swift_Mime_Headers_AbstractHeader' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/IdentificationHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/IdentificationHeader.php on line 19
+[30-Aug-2020 16:11:31 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Swift_Mime_Headers_UnstructuredHeader' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/ParameterizedHeader.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/Headers/ParameterizedHeader.php on line 16

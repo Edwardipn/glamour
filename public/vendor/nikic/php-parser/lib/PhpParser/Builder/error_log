@@ -1,0 +1,25 @@
+[30-Aug-2020 16:11:06 America/Mexico_City] PHP Fatal error:  Interface 'PhpParser\Builder' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Builder/Use_.php on line 10
+[30-Aug-2020 16:11:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Builder\FunctionLike' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Builder/Method.php on line 10
+[30-Aug-2020 16:11:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Builder\Declaration' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Builder/Interface_.php on line 10
+[30-Aug-2020 16:11:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Builder\Declaration' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Builder/FunctionLike.php on line 8
+[30-Aug-2020 16:11:08 America/Mexico_City] PHP Fatal error:  Interface 'PhpParser\Builder' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Builder/TraitUse.php on line 10
+[30-Aug-2020 16:11:08 America/Mexico_City] PHP Fatal error:  Interface 'PhpParser\Builder' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Builder/Declaration.php on line 8
+[30-Aug-2020 16:11:09 America/Mexico_City] PHP Fatal error:  Interface 'PhpParser\Builder' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Builder/Property.php on line 12
+[30-Aug-2020 16:11:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Builder\Declaration' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Builder/Namespace_.php on line 10
+[30-Aug-2020 16:11:09 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Builder\Declaration' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Builder/Class_.php on line 10
+[30-Aug-2020 16:11:09 America/Mexico_City] PHP Fatal error:  Interface 'PhpParser\Builder' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Builder/Param.php on line 9

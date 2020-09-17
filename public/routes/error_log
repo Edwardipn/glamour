@@ -1,0 +1,16 @@
+[30-Aug-2020 16:10:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/routes/api.php on line 17
+[30-Aug-2020 16:10:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/routes/api.php on line 17
+[30-Aug-2020 16:10:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Artisan' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/routes/console.php on line 17
+[30-Aug-2020 16:10:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Route' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/routes/web.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/routes/web.php on line 15

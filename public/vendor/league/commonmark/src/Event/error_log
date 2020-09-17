@@ -1,0 +1,4 @@
+[30-Aug-2020 16:10:55 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'League\CommonMark\Event\AbstractEvent' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Event/DocumentParsedEvent.php:19
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Event/DocumentParsedEvent.php on line 19

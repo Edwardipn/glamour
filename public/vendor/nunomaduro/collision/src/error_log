@@ -1,0 +1,8 @@
+[30-Aug-2020 16:10:46 America/Mexico_City] PHP Fatal error:  Interface 'NunoMaduro\Collision\Contracts\Writer' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nunomaduro/collision/src/Writer.php on line 29
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Interface 'NunoMaduro\Collision\Contracts\Highlighter' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nunomaduro/collision/src/Highlighter.php on line 25
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Whoops\Handler\Handler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nunomaduro/collision/src/Handler.php:24
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nunomaduro/collision/src/Handler.php on line 24
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Interface 'NunoMaduro\Collision\Contracts\Provider' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nunomaduro/collision/src/Provider.php on line 24
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Interface 'NunoMaduro\Collision\Contracts\ArgumentFormatter' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nunomaduro/collision/src/ArgumentFormatter.php on line 21

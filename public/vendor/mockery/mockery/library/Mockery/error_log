@@ -1,0 +1,9 @@
+[30-Aug-2020 16:11:09 America/Mexico_City] PHP Fatal error:  Interface 'Mockery\LegacyMockInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/MockInterface.php on line 25
+[30-Aug-2020 16:11:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\HigherOrderMessage' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/ExpectsHigherOrderMessage.php on line 23
+[30-Aug-2020 16:11:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\Expectation' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/VerificationExpectation.php on line 23

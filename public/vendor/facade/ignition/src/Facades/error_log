@@ -1,0 +1,4 @@
+[30-Aug-2020 16:10:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Facades\Facade' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/ignition/src/Facades/Flare.php:16
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/ignition/src/Facades/Flare.php on line 16

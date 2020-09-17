@@ -1,0 +1,12 @@
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\Exception' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Exception/InvalidOrderException.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Exception/InvalidOrderException.php on line 25
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\CountValidator\Exception' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Exception/InvalidCountException.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Exception/InvalidCountException.php on line 26
+[30-Aug-2020 16:11:20 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Mockery\Exception' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Exception/NoMatchingExpectationException.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/mockery/mockery/library/Mockery/Exception/NoMatchingExpectationException.php on line 25

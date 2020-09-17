@@ -1,0 +1,20 @@
+[30-Aug-2020 16:11:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingKeyTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingKeyTest.php on line 6
+[30-Aug-2020 16:11:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayWithSizeTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayWithSizeTest.php on line 6
+[30-Aug-2020 16:11:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingKeyValuePairTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingKeyValuePairTest.php on line 6
+[30-Aug-2020 16:11:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingTest.php on line 6
+[30-Aug-2020 16:11:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\AbstractMatcherTest' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingInOrderTest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/hamcrest/hamcrest-php/tests/Hamcrest/Array/IsArrayContainingInOrderTest.php on line 6

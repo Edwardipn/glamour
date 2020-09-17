@@ -1,0 +1,2 @@
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Interface 'Swift_Transport_EsmtpHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/EightBitMimeHandler.php on line 23
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Interface 'Swift_Transport_EsmtpHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/SmtpUtf8Handler.php on line 24

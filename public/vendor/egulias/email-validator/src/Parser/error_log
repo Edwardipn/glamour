@@ -1,0 +1,4 @@
+[30-Aug-2020 16:11:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Parser\Parser' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Parser/DomainPart.php:35
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Parser/DomainPart.php on line 35

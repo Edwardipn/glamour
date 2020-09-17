@@ -1,0 +1,12 @@
+[30-Aug-2020 16:10:23 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/database/migrations/2014_10_12_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/database/migrations/2014_10_12_000000_create_users_table.php on line 7
+[30-Aug-2020 16:10:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/database/migrations/2019_08_19_000000_create_failed_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/database/migrations/2019_08_19_000000_create_failed_jobs_table.php on line 7
+[30-Aug-2020 16:10:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Database\Migrations\Migration' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/database/migrations/2014_10_12_100000_create_password_resets_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/database/migrations/2014_10_12_100000_create_password_resets_table.php on line 7

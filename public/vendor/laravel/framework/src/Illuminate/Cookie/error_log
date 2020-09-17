@@ -1,0 +1,5 @@
+[30-Aug-2020 16:11:15 America/Mexico_City] PHP Fatal error:  Trait 'Illuminate\Support\InteractsWithTime' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Cookie/CookieJar.php on line 13
+[30-Aug-2020 16:11:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Cookie/CookieServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Cookie/CookieServiceProvider.php on line 7

@@ -1,0 +1,1 @@
+[30-Aug-2020 16:11:07 America/Mexico_City] PHP Fatal error:  Interface 'PhpParser\ErrorHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13

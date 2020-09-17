@@ -1,0 +1,4 @@
+[30-Aug-2020 16:11:14 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Hamcrest\DiagnosingMatcher' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Xml/HasXPath.php on line 17

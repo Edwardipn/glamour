@@ -1,0 +1,4 @@
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PHPUnit\Framework\TestCase' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phpunit/php-timer/tests/TimerTest.php:17
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phpunit/php-timer/tests/TimerTest.php on line 17

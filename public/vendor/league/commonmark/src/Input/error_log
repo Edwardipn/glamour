@@ -1,0 +1,1 @@
+[30-Aug-2020 16:10:56 America/Mexico_City] PHP Fatal error:  Interface 'League\CommonMark\Input\MarkdownInputInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/league/commonmark/src/Input/MarkdownInput.php on line 16

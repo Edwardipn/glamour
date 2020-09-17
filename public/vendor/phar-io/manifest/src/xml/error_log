@@ -1,0 +1,41 @@
+[30-Aug-2020 16:11:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/RequiresElement.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/RequiresElement.php on line 13
+[30-Aug-2020 16:11:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/ExtElement.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/ExtElement.php on line 13
+[30-Aug-2020 16:11:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/PhpElement.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/PhpElement.php on line 13
+[30-Aug-2020 16:11:11 America/Mexico_City] PHP Fatal error:  Interface 'PharIo\Manifest\Exception' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/ManifestDocumentLoadingException.php on line 15
+[30-Aug-2020 16:11:11 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/ComponentElement.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/ComponentElement.php on line 13
+[30-Aug-2020 16:11:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/CopyrightElement.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/CopyrightElement.php on line 13
+[30-Aug-2020 16:11:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/ContainsElement.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/ContainsElement.php on line 13
+[30-Aug-2020 16:11:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ElementCollection' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/ComponentElementCollection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/ComponentElementCollection.php on line 13
+[30-Aug-2020 16:11:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ElementCollection' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/AuthorElementCollection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/AuthorElementCollection.php on line 13
+[30-Aug-2020 16:11:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ElementCollection' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/ExtElementCollection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/ExtElementCollection.php on line 13
+[30-Aug-2020 16:11:15 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PharIo\Manifest\ManifestElement' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/LicenseElement.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/manifest/src/xml/LicenseElement.php on line 13

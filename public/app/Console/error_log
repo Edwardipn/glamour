@@ -1,0 +1,4 @@
+[30-Aug-2020 16:10:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Console\Kernel' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/app/Console/Kernel.php on line 8

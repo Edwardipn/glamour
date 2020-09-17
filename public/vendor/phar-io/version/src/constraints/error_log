@@ -1,0 +1,18 @@
+[30-Aug-2020 16:11:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PharIo\Version\AbstractVersionConstraint' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/version/src/constraints/GreaterThanOrEqualToVersionConstraint.php on line 13
+[30-Aug-2020 16:11:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PharIo\Version\AbstractVersionConstraint' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/version/src/constraints/SpecificMajorAndMinorVersionConstraint.php on line 13
+[30-Aug-2020 16:11:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PharIo\Version\AbstractVersionConstraint' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/version/src/constraints/SpecificMajorVersionConstraint.php on line 13
+[30-Aug-2020 16:11:06 America/Mexico_City] PHP Fatal error:  Interface 'PharIo\Version\VersionConstraint' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/version/src/constraints/AnyVersionConstraint.php on line 13
+[30-Aug-2020 16:11:06 America/Mexico_City] PHP Fatal error:  Interface 'PharIo\Version\VersionConstraint' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/version/src/constraints/AbstractVersionConstraint.php on line 13
+[30-Aug-2020 16:11:12 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PharIo\Version\AbstractVersionConstraint' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php:13
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/phar-io/version/src/constraints/AndVersionConstraintGroup.php on line 13

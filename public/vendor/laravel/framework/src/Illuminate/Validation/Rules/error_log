@@ -1,0 +1,2 @@
+[30-Aug-2020 16:11:26 America/Mexico_City] PHP Fatal error:  Trait 'Illuminate\Validation\Rules\DatabaseRule' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Validation/Rules/Exists.php on line 7
+[30-Aug-2020 16:11:28 America/Mexico_City] PHP Fatal error:  Trait 'Illuminate\Validation\Rules\DatabaseRule' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Validation/Rules/Unique.php on line 9

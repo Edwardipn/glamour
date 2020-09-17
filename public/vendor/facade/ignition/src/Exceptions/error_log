@@ -1,0 +1,5 @@
+[30-Aug-2020 16:10:55 America/Mexico_City] PHP Fatal error:  Interface 'Facade\IgnitionContracts\ProvidesSolution' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/ignition/src/Exceptions/InvalidConfig.php on line 11
+[30-Aug-2020 16:10:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Facade\Ignition\Exceptions\ViewException' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/ignition/src/Exceptions/ViewExceptionWithSolution.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/facade/ignition/src/Exceptions/ViewExceptionWithSolution.php on line 8

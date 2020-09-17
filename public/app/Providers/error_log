@@ -1,0 +1,12 @@
+[30-Aug-2020 16:10:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\RouteServiceProvider' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/app/Providers/RouteServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/app/Providers/RouteServiceProvider.php on line 8
+[30-Aug-2020 16:10:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\AuthServiceProvider' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/app/Providers/AuthServiceProvider.php on line 8
+[30-Aug-2020 16:10:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Foundation\Support\Providers\EventServiceProvider' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/app/Providers/EventServiceProvider.php on line 10

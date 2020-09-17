@@ -1,0 +1,2 @@
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Interface 'GuzzleHttp\Promise\PromisorInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/guzzlehttp/guzzle/src/Pool.php on line 20
+[30-Aug-2020 16:10:47 America/Mexico_City] PHP Fatal error:  Interface 'GuzzleHttp\ClientInterface' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/guzzlehttp/guzzle/src/Client.php on line 26

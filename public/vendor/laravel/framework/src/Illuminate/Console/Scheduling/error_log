@@ -1,0 +1,17 @@
+[30-Aug-2020 16:11:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php on line 7
+[30-Aug-2020 16:11:24 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Scheduling\Event' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php:9
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php on line 9
+[30-Aug-2020 16:11:24 America/Mexico_City] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Schedule.php on line 20
+[30-Aug-2020 16:11:24 America/Mexico_City] PHP Fatal error:  Interface 'Illuminate\Console\Scheduling\EventMutex' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php on line 7
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Event.php on line 22
+[30-Aug-2020 16:11:25 America/Mexico_City] PHP Fatal error:  Interface 'Illuminate\Console\Scheduling\SchedulingMutex' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php on line 8
+[30-Aug-2020 16:11:28 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Console\Command' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php on line 15
+[30-Aug-2020 16:12:26 America/Mexico_City] PHP Fatal error:  Trait 'Illuminate\Support\Traits\Macroable' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Event.php on line 22

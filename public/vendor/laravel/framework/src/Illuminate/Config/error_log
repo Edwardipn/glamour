@@ -1,0 +1,1 @@
+[30-Aug-2020 16:11:17 America/Mexico_City] PHP Fatal error:  Interface 'Illuminate\Contracts\Config\Repository' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Config/Repository.php on line 9

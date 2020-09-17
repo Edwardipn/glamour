@@ -1,0 +1,40 @@
+[30-Aug-2020 16:11:06 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Warning\Warning' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Warning/CFWSNearAt.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Warning/CFWSNearAt.php on line 5
+[30-Aug-2020 16:11:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Warning\Warning' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Warning/Comment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Warning/Comment.php on line 5
+[30-Aug-2020 16:11:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Warning\Warning' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Warning/IPV6ColonEnd.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Warning/IPV6ColonEnd.php on line 5
+[30-Aug-2020 16:11:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Warning\Warning' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Warning/QuotedPart.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Warning/QuotedPart.php on line 5
+[30-Aug-2020 16:11:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Warning\Warning' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Warning/IPV6MaxGroups.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Warning/IPV6MaxGroups.php on line 5
+[30-Aug-2020 16:11:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Warning\Warning' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Warning/DomainTooLong.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Warning/DomainTooLong.php on line 5
+[30-Aug-2020 16:11:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Warning\Warning' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Warning/NoDNSMXRecord.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Warning/NoDNSMXRecord.php on line 5
+[30-Aug-2020 16:11:08 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Warning\Warning' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Warning/ObsoleteDTEXT.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Warning/ObsoleteDTEXT.php on line 5
+[30-Aug-2020 16:11:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Warning\Warning' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Warning/QuotedString.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Warning/QuotedString.php on line 5
+[30-Aug-2020 16:11:10 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Egulias\EmailValidator\Warning\Warning' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Warning/IPV6BadChar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/egulias/email-validator/src/Warning/IPV6BadChar.php on line 5

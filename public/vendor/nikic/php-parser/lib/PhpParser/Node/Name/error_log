@@ -1,0 +1,4 @@
+[30-Aug-2020 16:11:16 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'PhpParser\Node\Name' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Name/Relative.php:5
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nikic/php-parser/lib/PhpParser/Node/Name/Relative.php on line 5

@@ -1,0 +1,20 @@
+[30-Aug-2020 16:11:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Hashing\AbstractHasher' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php on line 8
+[30-Aug-2020 16:11:17 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Hashing\ArgonHasher' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Hashing/Argon2IdHasher.php:7
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Hashing/Argon2IdHasher.php on line 7
+[30-Aug-2020 16:11:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Hashing\AbstractHasher' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Hashing/ArgonHasher.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Hashing/ArgonHasher.php on line 8
+[30-Aug-2020 16:11:18 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php on line 8
+[30-Aug-2020 16:11:19 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\Manager' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Hashing/HashManager.php:8
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/laravel/framework/src/Illuminate/Hashing/HashManager.php on line 8

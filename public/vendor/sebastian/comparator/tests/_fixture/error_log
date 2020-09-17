@@ -1,0 +1,4 @@
+[30-Aug-2020 16:11:07 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/tests/_fixture/TestClassComparator.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/tests/_fixture/TestClassComparator.php on line 12

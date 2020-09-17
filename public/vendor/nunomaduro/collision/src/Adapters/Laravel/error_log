@@ -1,0 +1,5 @@
+[30-Aug-2020 16:11:03 America/Mexico_City] PHP Fatal error:  Interface 'Illuminate\Contracts\Debug\ExceptionHandler' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nunomaduro/collision/src/Adapters/Laravel/ExceptionHandler.php on line 27
+[30-Aug-2020 16:11:04 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'Illuminate\Support\ServiceProvider' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nunomaduro/collision/src/Adapters/Laravel/CollisionServiceProvider.php:30
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/nunomaduro/collision/src/Adapters/Laravel/CollisionServiceProvider.php on line 30

@@ -1,0 +1,40 @@
+[30-Aug-2020 16:10:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Comparator\Comparator' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/src/ScalarComparator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/src/ScalarComparator.php on line 15
+[30-Aug-2020 16:10:56 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Comparator\Comparator' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/src/SplObjectStorageComparator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/src/SplObjectStorageComparator.php on line 15
+[30-Aug-2020 16:10:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/src/ExceptionComparator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/src/ExceptionComparator.php on line 15
+[30-Aug-2020 16:10:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/src/MockObjectComparator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/src/MockObjectComparator.php on line 15
+[30-Aug-2020 16:10:57 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Comparator\ScalarComparator' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/src/NumericComparator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/src/NumericComparator.php on line 15
+[30-Aug-2020 16:10:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/src/DateTimeComparator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/src/DateTimeComparator.php on line 15
+[30-Aug-2020 16:10:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Comparator\NumericComparator' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/src/DoubleComparator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/src/DoubleComparator.php on line 15
+[30-Aug-2020 16:10:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Comparator\Comparator' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/src/TypeComparator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/src/TypeComparator.php on line 15
+[30-Aug-2020 16:10:58 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Comparator\Comparator' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/src/ResourceComparator.php:15
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/src/ResourceComparator.php on line 15
+[30-Aug-2020 16:10:59 America/Mexico_City] PHP Fatal error:  Uncaught Error: Class 'SebastianBergmann\Comparator\ObjectComparator' not found in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/src/DOMNodeComparator.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/ticdesar/filleafemme.ticdesarrollomag.com.mx/laravel/glamour/vendor/sebastian/comparator/src/DOMNodeComparator.php on line 18
