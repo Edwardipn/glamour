@@ -68,7 +68,7 @@
 											<div class="album-arrow"></div>
 										</div>
 										<div class="port-caption-masonry">
-											<h3><a href="{{asset('galleries')}}">Daimon</a></h3>
+											<h3><a href="{{asset('galleries')}}">LST 240-2 </a></h3>
 										</div>
 									</div>
 								</div>
@@ -79,18 +79,18 @@
 											<div class="album-arrow"></div>
 										</div>
 										<div class="port-caption-masonry">
-											<h3><a href="{{asset('galleries')}}">Vicky</a></h3>
+											<h3><a href="{{asset('galleries')}}">LST 290-2</a></h3>
 										</div>
 									</div>
 								</div>
 								<div class="col-md-4">
-									<div class="col port-item-masonry select-modal-imagen" data-toggle="modal" data-target="#exampleModal" data-nombre="jane" data-cantidad="3">
+									<div class="col port-item-masonry select-modal-imagen" data-toggle="modal" data-target="#exampleModal" data-nombre="jane" data-cantidad="2">
 										<div class="port-item-htext">
 											<div class="port-img"><img src="{{asset('img/jane/jane_400x600_1.jpg')}}" class="img-fluid" alt="Jane"></div>
 											<div class="album-arrow"></div>
 										</div>
 										<div class="port-caption-masonry">
-											<h3><a href="{{asset('galleries')}}">Jane</a></h3>
+											<h3><a href="{{asset('galleries')}}">LST 250-1</a></h3>
 										</div>
 									</div>
 								</div>
@@ -105,6 +105,38 @@
 		</div>
 		<!-- /container -->
 	</section>
+	<!-- SECTION 4-->
+	<section class="section-holder margin-b72 alignc">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-8 offset-lg-2">
+					<h2 class="section-title margin-b32">Visita nuestra galería</h2>
+					<div class="port-caption-masonry">
+						<h3><a href="{{asset('galleries')}}">Contamos con los mejores modelos.</a></h3>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- /SECTION 4-->
+	<!-- SECTION 3-->
+	<section class="padding-top-40">
+		<div class="parallax section-holder" style="background-image:url({{asset('img/portfolio/xv-girl-5.jpg')}});">
+			<div class="container parallax-content alignc">
+				<div class="container">
+					<div class="row align-items-center">
+						<div class="col-lg-8">
+							<h3 class="section-title margin-bm32 white">Más de 20 años inspirando y marcando tendencias en diseño y elegancia de vestidos, somos Fille á Femme.</h3>
+						</div>
+						<div class="col-lg-4 alignr">
+							<a href="{{asset('contact')}}" class="read-more">Contactanos</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- /SECTION 3-->
 	<!-- /SECTION 2-->
 	<section class="container">
 		<div class="row">
@@ -153,40 +185,11 @@
 			</div>
 		</div>
 	</section>
-	<!-- SECTION 3-->
-	<section class="padding-top-40">
-		<div class="parallax section-holder" style="background-image:url({{asset('img/portfolio/xv-girl-5.jpg')}});">
-			<div class="container parallax-content alignc">
-				<div class="row">
-					<div class="col-lg-8 offset-lg-2">
-						<h2 class="section-title testimonial-text white">Misión</h2>
-						<h4 class="section-title testimonial-text margin-b32">Diseñar vestidos de XV años con calidad y tendencia actualizada para las jóvenes y necesidades de cada persona.</h4>
-						<br>
-						<h2 class="section-title testimonial-text white">Visión</h2>
-						<h4 class="section-title testimonial-text margin-b32">Ser líderes en innovación y diseño ofreciendo la mejor experiencia para que cada evento sea inolvidable</h4>
-					</div>
-				</div>
-			</div>
-		</div>
-	</section>
-	<!-- /SECTION 3-->
-	<!-- SECTION 4-->
-	<section class="section-holder margin-b72 alignc">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-8 offset-lg-2">
-					<h2 class="section-title margin-b32">Visita nuestra galería</h2>
-					<a href="{{asset('galleries')}}">Contamos con los mejores modelos.</a>
-				</div>
-			</div>
-			<!-- /row -->
-		</div>
-		<!-- /container -->
-	</section>
-	<!-- /SECTION 4-->
+
+
 
 	<!-- SECTION 6-->
-	<section class="home-section6">
+	<!-- <section class="home-section6">
 		<div class="container">
 			<div class="row align-items-center">
 				<div class="col-lg-8">
@@ -197,7 +200,7 @@
 				</div>
 			</div>
 		</div>
-	</section>
+	</section> -->
 	<!-- /SECTION 6-->
 </div>
 <!-- home-page-content -->

@@ -25,7 +25,7 @@
 });  */
 
 /*(function () {
-    $(function(){
+    //$(function(){
         $('#popup').modal();
         $('#btn-popup').on('click',function(){
 

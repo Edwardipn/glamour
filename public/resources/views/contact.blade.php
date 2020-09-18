@@ -10,7 +10,7 @@
 			<div class="row">
 				<div class="col-lg-6 margin-bm54 aligncm">
 					<div class="margin-r54">
-						<h2 class="section-title margin-b32">¿Estás interesado en nosotros? Contactanos</h2>
+						<h1 class="section-title margin-b32" style="padding-top: 30px;">¿Estás interesado en nosotros? Contactanos</h1>
 						<p></p>
 						<h5>Dirección:</h5>
 						<p>Calle República de Honduras 61 INT 8, Col. Centro,<br> Alcaldía Cuauhtémoc, CDMX 06010, México.</p>
@@ -19,20 +19,7 @@
 				</div>
 				<!-- /col-lg-6 -->
 				<div class="col-lg-6">
-					<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYAsYA-XF6MSrjEqZSJS8-R7dIoUk3PkvJZ4iAPgVt6FQ9PA/viewform?embedded=true" width="640" height="1143" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-					<div id="contact-form-holder">
-
-						<!--
-							<form method="post" id="contact-form" action='include/contact-process.php'>
-								<div class="margin-b24"><input type="text" name="name" class="comm-field" placeholder="Nombre" /></div>
-								<div class="margin-b24"><input type="text" name="email" class="comm-field" placeholder="Correo" /> </div>
-								<div class="margin-b24"><input type="text" name="subject" class="comm-field" placeholder="Asunto" /> </div>
-								<div class="margin-b24"><textarea name="message" id="msg-contact" rows="5" placeholder="Mensaje"></textarea></div>
-								<p class="antispam">Leave this empty: <input type="text" name="url" /></p>
-								<p><input type="submit" value="Enviar mensaje" id="submit"/></p>
-							</form>
-						-->
-					</div>
+					<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdYAsYA-XF6MSrjEqZSJS8-R7dIoUk3PkvJZ4iAPgVt6FQ9PA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" style="width: 100%; height:100%;"></iframe>
 					<!-- contact-form-holder-->
 				</div>
 				<!-- /col-lg-6 -->

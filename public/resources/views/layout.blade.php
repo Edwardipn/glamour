@@ -18,7 +18,7 @@
 
     <meta name="description" content="Encuentra los mejores vestidos que tanto deseas aquí. ¡No esperes más! Para comprar tu vestido en Ciudad de México, Cel: 55 4200 7997">
 
-    <meta name="keywords" content="vestidos, mujeres, tiaras">  
+    <meta name="keywords" content="15 años, quinceañeras, vestidos de XV años">  
 
     <!--<meta http-equiv="refresh" content="5">-->
 
@@ -52,8 +52,7 @@
 
     <script src="{{ asset('js/swiper-bundle.min.js') }}"></script>
 
-    <!-- css fontawesome />-->
-    <link rel="stylesheet" href="{{asset('plugin/fontawesome-free-5.13.0-web/css/all.min.css')}}">
+
 
     <!--Animate CSS-->
 
@@ -63,7 +62,15 @@
     <!-- Styles -->
 
     <link rel="stylesheet" href="{{asset('css/styles.css')}}">
-    @yield('popup')
+
+    <!-- Scripts -->
+
+    <script src="{{asset('js/script.js')}}"></script>
+
+
+
+    <!-- css    <link type="text/css" media="all" href="{{asset('css/main.css')}}" rel="stylesheet" />-->
+
 
     <!-- js -->
 
