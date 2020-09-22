@@ -6,9 +6,9 @@
 
 <head>
 
-        <!-- Required meta tags -->
+    <!-- Required meta tags -->
 
-  <meta charset="utf-8">
+    <meta charset="utf-8">
 
     <meta name="viewport" content="width=device-width, initial-scale=1 maximum-scale=1" user-scalable=no>
 
@@ -18,7 +18,7 @@
 
     <meta name="description" content="Encuentra los mejores vestidos que tanto deseas aquí. ¡No esperes más! Para comprar tu vestido en Ciudad de México, Cel: 55 4200 7997">
 
-    <meta name="keywords" content="15 años, quinceañeras, vestidos de XV años">  
+    <meta name="keywords" content="15 años, quinceañeras, vestidos de XV años">
 
     <!--<meta http-equiv="refresh" content="5">-->
 
@@ -28,13 +28,16 @@
 
     <title>@yield('title') | Fille a femme</title>
 
- 
+
 
     <!-- Bootstrap CSS -->
 
-    <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}" >
+    <link rel="stylesheet" href="{{asset('css/bootstrap.min.css')}}">
 
     <link rel="stylesheet" href="{{asset('css/swiper-bundle.min.css')}}">
+
+    <!-- fontawesome CSS -->
+    <link rel="stylesheet" href="{{asset('plugin/fontawesome-free-5.13.0-web/css/all.min.css')}}">
 
 
 
@@ -48,7 +51,7 @@
 
     <script src="{{asset('js/bootstrap.min.js')}}"></script>
 
-     <!-- Swiper JS -->
+    <!-- Swiper JS -->
 
     <script src="{{ asset('js/swiper-bundle.min.js') }}"></script>
 
@@ -82,11 +85,11 @@
 
 
 
-<body>	
+<body>
 
-        @include('util.header')
+    @include('util.header')
 
-        @yield('content')
+    @yield('content')
 
     <a class='btn-flotante' href='https://api.whatsapp.com/send?phone=5215542007997&text=Buen día, que precio tiene el vestido ' target="_blank"><img src="{{ asset('img/whatsapp.png') }}" border="0" /></a>
 
@@ -98,6 +101,6 @@
 
 </body>
 
-   
+
 
 </html>

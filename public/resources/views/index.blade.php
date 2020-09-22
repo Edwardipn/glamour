@@ -1,10 +1,11 @@
 @extends('layout')
-@section('title','Inicio')
+@section('title','Inicio Vestidos de XV años')
 
 @section('content')
 
 <!--Swiper Autoplay-->
 <!-- Swiper -->
+<h1 class="text-white">Vestidos de XV años</h1>
 <div class="swiper-container">
 	<div class="swiper-wrapper">
 		<div class="swiper-slide" style="background-image: url({{asset('img/portfolio/quinceanera-1.jpg')}});">
@@ -59,38 +60,39 @@
 						<div class="row layout-masonry">
 
 							<div class="row">
+
 								<div class="col-md-4">
-									<div class="col port-item-masonry select-modal-imagen" data-toggle="modal" data-target="#exampleModal" data-nombre="daimon" data-cantidad="2">
+									<div class="col port-item-masonry select-modal-imagen" data-toggle="modal" data-target="#exampleModal" data-nombre="LST-240" data-cantidad="2">
 										<div class="port-item-htext">
 											<div class="port-img">
-												<img src="{{asset('img/daimon/daimon_400x600_1.jpg')}}" class="img-fluid" alt="Daimon">
+												<img src="{{asset('img/LST-240/LST-240_400x600_1.jpg')}}" class="img-fluid" alt="LST-240">
 											</div>
 											<div class="album-arrow"></div>
 										</div>
 										<div class="port-caption-masonry">
-											<h3><a href="{{asset('galleries')}}">LST 240-2 </a></h3>
+											<h3><a href="#">LST 240-2 </a><span class="precio">$11000</span></h3>
 										</div>
 									</div>
 								</div>
 								<div class="col-md-4">
-									<div class="col port-item-masonry select-modal-imagen" data-toggle="modal" data-target="#exampleModal" data-nombre="vicky" data-cantidad="3">
+									<div class="col port-item-masonry select-modal-imagen" data-toggle="modal" data-target="#exampleModal" data-nombre="LST-290" data-cantidad="3">
 										<div class="port-item-htext">
-											<div class="port-img"><img src="{{asset('img/vicky/vicky_400x600_1.jpg')}}" class="img-fluid" alt="Vicky"></div>
+											<div class="port-img"><img src="{{asset('img/LST-290/LST-290_400x600_1.jpg')}}" class="img-fluid" alt="LST-290"></div>
 											<div class="album-arrow"></div>
 										</div>
 										<div class="port-caption-masonry">
-											<h3><a href="{{asset('galleries')}}">LST 290-2</a></h3>
+											<h3><a href="#">LST 290-2 </a><span class="precio">$9000</span></h3>
 										</div>
 									</div>
 								</div>
 								<div class="col-md-4">
-									<div class="col port-item-masonry select-modal-imagen" data-toggle="modal" data-target="#exampleModal" data-nombre="jane" data-cantidad="2">
+									<div class="col port-item-masonry select-modal-imagen" data-toggle="modal" data-target="#exampleModal" data-nombre="LST-250" data-cantidad="2">
 										<div class="port-item-htext">
-											<div class="port-img"><img src="{{asset('img/jane/jane_400x600_1.jpg')}}" class="img-fluid" alt="Jane"></div>
+											<div class="port-img"><img src="{{asset('img/LST-250/LST-250_400x600_1.jpg')}}" class="img-fluid" alt="LST-250"></div>
 											<div class="album-arrow"></div>
 										</div>
 										<div class="port-caption-masonry">
-											<h3><a href="{{asset('galleries')}}">LST 250-1</a></h3>
+											<h3><a href="#">LST 250-1 </a><span class="precio">$8000</span></h3>
 										</div>
 									</div>
 								</div>
@@ -121,12 +123,12 @@
 	<!-- /SECTION 4-->
 	<!-- SECTION 3-->
 	<section class="padding-top-40">
-		<div class="parallax section-holder" style="background-image:url({{asset('img/portfolio/xv-girl-5.jpg')}});">
+		<div class="parallax section-holder" style="background-image:url({{asset('img/portfolio/xv-girl-4.jpg')}});">
 			<div class="container parallax-content alignc">
 				<div class="container">
 					<div class="row align-items-center">
 						<div class="col-lg-8">
-							<h3 class="section-title margin-bm32 white">Más de 20 años inspirando y marcando tendencias en diseño y elegancia de vestidos, somos Fille á Femme.</h3>
+							<h3 class="section-title margin-bm32 white">Más de 20 años inspirando y marcando tendencias en diseño y elegancia de vestidos, somos Fille á Femme. Somos mayoristas.</h3>
 						</div>
 						<div class="col-lg-4 alignr">
 							<a href="{{asset('contact')}}" class="read-more">Contactanos</a>
@@ -186,22 +188,6 @@
 		</div>
 	</section>
 
-
-
-	<!-- SECTION 6-->
-	<!-- <section class="home-section6">
-		<div class="container">
-			<div class="row align-items-center">
-				<div class="col-lg-8">
-					<h3 class="section-title margin-bm32">Más de 20 años inspirando y marcando tendencias en diseño y elegancia de vestidos, somos Fille á Femme.</h3>
-				</div>
-				<div class="col-lg-4 alignr">
-					<a href="{{asset('contact')}}" class="read-more">Contactanos</a>
-				</div>
-			</div>
-		</div>
-	</section> -->
-	<!-- /SECTION 6-->
 </div>
 <!-- home-page-content -->
 <!-- /PAGE CONTENT -->

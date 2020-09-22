@@ -15,7 +15,7 @@
 							<div class="row">
 								<div class="col">
 									<span class="text-light color-blanco" style="font-size: 30px;padding-left: 10px;">
-										<a href="">
+										<a href="https://www.facebook.com/FilleaFemme">
 											<i class="fab fa-facebook-f"></i>
 										</a>
 									</span>
@@ -29,6 +29,21 @@
 											<i class="fab fa-instagram"></i>
 										</a>
 									</span>
+									<span class="text-light color-blanco" style="font-size: 30px;padding-left: 10px;">
+										<a href="">
+											<i class="fab fa-linkedin"></i>
+										</a>
+									</span>
+									<span class="text-light color-blanco" style="font-size: 30px;padding-left: 10px;">
+										<a href="">
+											<i class="fab fa-pinterest"></i>
+										</a>
+									</span>
+									<span class="text-light color-blanco" style="font-size: 30px;padding-left: 10px;">
+										<a href="">
+											<i class="fab fa-whatsapp"></i>
+										</a>
+									</span>
 								</div>
 							</div>
 						</div>
@@ -39,6 +54,9 @@
 									<div class="textwidget">
 										<p>Calle República de Honduras 61 INT 8, Col. Centro,<br> Alcaldía Cuauhtémoc, CDMX 06010, México</p>
 									</div>
+								</div>
+								<div class="text-center py-3 text-black">
+									Lee nuestro <a href="{{asset('aviso')}}">aviso de privacidad</a>
 								</div>
 							</div>
 						</div>
@@ -71,7 +89,6 @@
 				</div>
 				<!-- Copyright -->
 				<div class="footer-copyright text-center py-3 text-light">
-					Lee nuestro <a href="{{asset('aviso')}}">aviso de privacidad</a>
 					© 2020 Copyright: <a href="https://ticdesarrollomag.com.mx/"> ticdesarrollomag</a>
 				</div>
 				<!-- Copyright -->

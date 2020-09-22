@@ -3,35 +3,27 @@
 
 <head>
 	@include('util.head')
-	<!-- Scripts -->
 	<script>
 		(function() {
 			$(function() {
-				$('#nic--popup').on('click', function() {
-					$('#popup-nic').modal();
+				$('#lil-popup').on('click', function() {
+					$('#popup-lil').modal();
 				});
 			});
 		}());
 	</script>
-	<title>Nicol</title>
+	<title>LST-260</title>
 </head>
 
 <body>
 
+
 	<!--Modal Bootstrap-->
-	<div class="modal" tabindex="-1" role="dialog" id="popup-nic">
+	<div class="modal" tabindex="-1" role="dialog" id="popup-lil">
 		<div class="modal-dialog" role="document">
 			<div class="modal-content">
 				<div class="modal-header">
-
-					<button type="button" class="close" data-dismiss="modal" aria-label="Close">
-						<span aria-hidden="true">&times;</span>
-					</button>
-					<!--
-		<a href="{{asset('galleries')}}" class="close" >
-			<span aria-hidden="true">&times;</span>
-		</a>
-		-->
+					<a href="{{asset('galleries')}}" class="close"><span aria-hidden="true">&times;</span></a>
 				</div>
 				<div class="modal-body">
 
@@ -40,27 +32,26 @@
 						<div class="whitebox">
 
 
-
 							<div id="my_thumb_slider">
 								<div class="slides">
 									<div class="slide active">
 										<div class="col port-item-htext">
-											<a href="{{asset('img/nicol/nicol_7300x1095_1.jpg')}}" class="" title="">
-												<img class="img-fluid" src="{{asset('img/nicol/nicol_7300x1095_1.jpg')}}" alt="">
+											<a href="{{asset('img/LST-260/LST-260_730_1095_1.jpg')}}" class="" title="">
+												<img class="img-fluid" src="{{asset('img/LST-260/LST-260_730_1095_1.jpg')}}" alt="">
 											</a>
 										</div>
 									</div>
 									<div class="slide">
 										<div class="col port-item-htext">
-											<a href="{{asset('img/nicol/nicol_7300x1095_2.jpg')}}" class="" title="">
-												<img class="img-fluid" src="{{asset('img/nicol/nicol_7300x1095_2.jpg')}}" alt="">
+											<a href="{{asset('img/LST-260/LST-260_730_1095_2.JPG')}}" class="" title="">
+												<img class="img-fluid" src="{{asset('img/LST-260/LST-260_730_1095_2.JPG')}}" alt="">
 											</a>
 										</div>
 									</div>
 									<div class="slide">
 										<div class="col port-item-htext">
-											<a href="{{asset('img/nicol/nicol_7300x1095_3.jpg')}}" class="" title="">
-												<img class="img-fluid" src="{{asset('img/nicol/nicol_7300x1095_3.jpg')}}" alt="">
+											<a href="{{asset('img/LST-260/LST-260_730_1095_3.jpg')}}" class="" title="">
+												<img class="img-fluid" src="{{asset('img/LST-260/LST-260_730_1095_3.jpg')}}" alt="">
 											</a>
 										</div>
 									</div>
@@ -78,20 +69,20 @@
 															<div class="col port-item-masonry control active">
 																<div class="port-item-htext">
 																	<div class="port-img">
-																		<img src="{{asset('img/nicol/nicol_7300x1095_1.jpg')}}" class="img-fluid" alt="Amely">
+																		<img src="{{asset('img/LST-260/LST-260_730_1095_1.jpg')}}" class="img-fluid" alt="Amely">
 																	</div>
 
 																</div>
 															</div>
 															<div class="col port-item-masonry control">
 																<div class="port-item-htext">
-																	<div class="port-img"><img src="{{asset('img/nicol/nicol_7300x1095_2.jpg')}}" class="img-fluid" alt="Amely"></div>
+																	<div class="port-img"><img src="{{asset('img/LST-260/LST-260_730_1095_2.JPG')}}" class="img-fluid" alt="Amely"></div>
 
 																</div>
 															</div>
 															<div class="col port-item-masonry control">
 																<div class="port-item-htext">
-																	<div class="port-img"><img src="{{asset('img/nicol/nicol_7300x1095_3.jpg')}}" class="img-fluid" alt="Amely"></div>
+																	<div class="port-img"><img src="{{asset('img/LST-260/LST-260_730_1095_3.jpg')}}" class="img-fluid" alt="Amely"></div>
 
 																</div>
 															</div>
@@ -122,6 +113,7 @@
 
 						</div>
 					</div>
+
 
 				</div>
 				<div class="modal-footer">
